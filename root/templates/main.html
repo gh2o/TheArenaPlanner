@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>{{title}}</title>
+<link type="text/css" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css"/>
+<link type="text/css" rel="stylesheet" href="/static/common.css"/>
+<link type="text/css" rel="stylesheet" href="/static/versions/{{version}}/core.css"/>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/static/lib.js"></script>
+<script type="text/javascript" src="/static/common.js"></script>
+<script type="text/javascript" src="/static/seasons/{{season}}/db.js"></script>
+<script type="text/javascript" src="/static/versions/{{version}}/core.js"></script>
+</head>
+<body>
+<div id="ap_header">
+<h1>The Arena Planner &trade;</h1>
+<iframe src="{{fb_likebox_url}}?href={{fb_page_url|urlencode}}&amp;{{fb_likebox_params}}"></iframe>
+</div>
+<div id="ap_content">
+{% block content %}{% endblock content %}
+</html>

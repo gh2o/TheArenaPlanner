@@ -1,0 +1,117 @@
+4011,"Chinese 1",B,1,214,Liang
+4011,"Chinese 1",C,2,211,Danforth
+4011,"Chinese 1",B,7,212,Liang
+4011,"Chinese 1",C,8,211,Danforth
+,,,,,
+4013,"Chinese 3",A,3,146,Pang
+4013,"Chinese 3",A,3,216,"Li, Y"
+4013,"Chinese 3",A,4,146,Pang
+4013,"Chinese 3",A,5,146,Pang
+4013,"Chinese 3",A,7,211,Danforth
+4013,"Chinese 3",A,8,216,"Li, Y"
+,,,,,
+4015,"Chinese 5",C,4,212,Liang
+4015,"Chinese 5",C,6,212,Liang
+,,,,,
+4024,"Chinese 3E",B,7,216,"Li, Y"
+,,,,,
+4026,"Chinese 5E",C,2,212,Liang
+,,,,,
+4047,"Chinese 5H",B,1,211,Danforth
+4047,"Chinese 5H",C,2,216,"Li, Y"
+4047,"Chinese 5H",B,3,211,Danforth
+4047,"Chinese 5H",C,4,216,"Li, Y"
+,,,,,
+4021,"AP Chinese 1",B,1,212,Chang
+4021,"AP Chinese 1",B,3,212,Chang
+4021,"AP Chinese 1",B,5,212,Chang
+,,,,,
+4051,"French 1",C,2,256,Raya
+4051,"French 1",B,7,216,Pang
+,,,,,
+4053,"French 3",A,3,256,Raya
+4053,"French 3",A,7,256,Raya
+,,,,,
+4066,"French 5H",B,1,256,Raya
+4066,"French 5H",B,5,256,Raya
+,,,,,
+4091,"Italian 1",C,4,T24,Pelagatti
+4091,"Italian 1",C,6,T24,Pelagatti
+,,,,,
+4093,"Italian 3",A,7,S102,Branzburg
+4093,"Italian 3",A,8,S102,Branzburg
+,,,,,
+4095,"Italian 5",C,2,S102,Branzburg
+,,,,,
+4089,"Italian 5H",B,3,S102,Branzburg
+,,,,,
+4103,"Italian 7H",B,5,S102,Branzburg
+,,,,,
+4111,"Japanese 1",C,6,211,Yoshimura-Lee
+4111,"Japanese 1",C,8,212,Yoshimura-Lee
+,,,,,
+4113,"Japanese 3",A,2,218,Okada
+4113,"Japanese 3",A,8,218,Okada
+,,,,,
+4115,"Japanese 5",B,5,211,Yoshimura-Lee
+,,,,,
+4122,"Japanese 5H",B,5,211,Yoshimura-Lee
+,,,,,
+4121,"AP Japanese 1",B,5,218,Okada
+,,,,,
+4131,"Latin 1",B,3,140,Williams
+,,,,,
+4133,"Latin 3",A,4,140,Williams
+,,,,,
+4135,"Latin 5",C,6,140,Williams
+,,,,,
+4151,"Spanish 1",B,1,140,Collins
+4151,"Spanish 1",C,2,142,Collins
+4151,"Spanish 1",B,3,219,Lipman
+4151,"Spanish 1",C,4,142,Collins
+4151,"Spanish 1",B,5,140,Collins
+4151,"Spanish 1",B,7,140,Collins
+4151,"Spanish 1",B,7,219,Lipman
+,,,,,
+4153,"Spanish 3",A,1,219,Lipman
+4153,"Spanish 3",A,2,219,Lipman
+4153,"Spanish 3",A,3,214,Ballbe
+4153,"Spanish 3",A,5,142,Maquinana
+4153,"Spanish 3",A,6,219,Lipman
+4153,"Spanish 3",A,7,214,Ballbe
+4153,"Spanish 3",A,8,214,Ballbe
+,,,,,
+4149,"Spanish 3E",C,8,T24,Cadoppi
+,,,,,
+4155,"Spanish 5",C,2,214,Ballbe
+4155,"Spanish 5",B,3,T24,Cadoppi
+4155,"Spanish 5",C,4,214,Ballbe
+4155,"Spanish 5",C,8,T24,Cadoppi
+,,,,,
+4145,"Spanish 5E",C,2,T24,Cadoppi
+4145,"Spanish 5E",B,3,142,Maquinana
+4145,"Spanish 5E",B,7,142,Maquinana
+,,,,,
+4166,"Spanish 5H",C,2,T24,Cadoppi
+4166,"Spanish 5H",B,3,142,Maquinana
+4166,"Spanish 5H",B,7,142,Maquinana
+,,,,,
+4161,"AP Spanish Language 1",B,1,142,Maquinana
+,,,,,
+4211,"Korean 1",C,4,215,Cho
+4211,"Korean 1",C,6,215,Cho
+,,,,,
+4213,"Korean 3",A,2,215,Cho
+4213,"Korean 3",A,8,215,Cho
+,,,,,
+4204,"Korean 5",B,3,215,Cho
+,,,,,
+4206,"Korean 7",B,3,215,Cho
+,,,,,
+4221,"Hebrew 1",C,4,211,Horsky
+,,,,,
+4223,"Hebrew 3",C,4,211,Horsky
+,,,,,
+4225,"Hebrew 5",B,5,214,Horsky
+,,,,,
+4227,"Hebrew 7",B,5,214,Horsky

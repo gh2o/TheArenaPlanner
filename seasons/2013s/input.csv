@@ -1,0 +1,578 @@
+"Course ID",Section,"Course ID & Section","Course Title",Seats,Code,Block,Room,Instructor,Dept
+1026,1,10261,"10th Grade English 1",31,B,1,T-21,Freeland,English
+1026,2,10262,"10th Grade English 1",31,C,2,T-16,Santiago,English
+1026,3,10263,"10th Grade English 1",31,C,2,T-15,Yuan,English
+1026,4,10264,"10th Grade English 1",31,C,4,T-16,Santiago,English
+1026,5,10265,"10th Grade English 1",31,B,5,136,Freeland,English
+1026,6,10266,"10th Grade English 1",31,C,6,T-15,Yuan,English
+1026,7,10267,"10th Grade English 1",31,B,7,136,Freeland,English
+1026,8,10268,"10th Grade English 1",31,C,8,T-15,Yuan,English
+1030,1,10301,"9th Grade English 1",31,C,2,T-18,Hereford,English
+1030,2,10302,"9th Grade English 1",31,B,3,76,Lamarre,English
+1030,3,10303,"9th Grade English 1",31,B,3,T19,Lo,English
+1030,4,10304,"9th Grade English 1",31,C,4,T-17,Emerson,English
+1030,5,10305,"9th Grade English 1",31,B,5,76,Lamarre,English
+1030,6,10306,"9th Grade English 1",31,C,6,T-16,Hereford,English
+1030,7,10307,"9th Grade English 1",31,C,6,T17,Emerson,English
+1030,8,10308,"9th Grade English 1",31,B,7,76,Lamarre,English
+1032,1,10321,"9th Grade English 1H",26,B,1,T-16,Santiago,English
+1032,2,10322,"9th Grade English 1H",26,B,7,T-16,Santiago,English
+1040,1,10401,"9th Grade English 2",31,B,1,130,Henares,English
+1040,2,10402,"9th Grade English 2",31,B,1,T-20,Yu,English
+1040,3,10403,"9th Grade English 2",31,C,2,5,Nickels,English
+1040,4,10404,"9th Grade English 2",31,B,3,130,Henares,English
+1040,5,10405,"9th Grade English 2",31,B,3,T20,Yu,English
+1040,6,10406,"9th Grade English 2",31,C,4,5,Nickels,English
+1040,7,10407,"9th Grade English 2",31,B,5,130,Henares,English
+1040,8,10408,"9th Grade English 2",31,C,7,T-21,Wade,English
+1040,9,10409,"9th Grade English 2",31,B,7,T-20,Yu,English
+1043,1,10431,"10th Grade English 2H",31,C,2,135,Galang,English
+1043,2,10432,"10th Grade English 2H",31,B,3,T-18,Recht,English
+1043,3,10433,"10th Grade English 2H",31,C,6,135,Galang,English
+1043,4,10434,"10th Grade English 2H",31,C,8,135,Galang,English
+1049,1,10491,"Advanced Composition",32,C,6,5,Nickels,English
+1057,1,10571,"Academic Literacy 2",25,C,4,130,Crabtree,English
+1069,1,10691,"10th Grade English 2",29,C,2,T-21,Freeland,English
+1069,2,10692,"10th Grade English 2",29,B,3,T-17,Emerson,English
+1069,3,10693,"10th Grade English 2",29,C,4,139,Freeland,English
+1069,4,10694,"10th Grade English 2",29,B,5,T21,Wade,English
+1069,5,10695,"10th Grade English 2",29,C,6,140,Dean,English
+1069,6,10696,"10th Grade English 2",29,B,7,140,Dean,English
+1069,7,10697,"10th Grade English 2",29,B,7,T-17,Emerson,English
+1070,1,10701,"American Literature 1",32,C,2,130,Crabtree,English
+1070,2,10702,"American Literature 1",32,C,8,137,Crabtree,English
+1100,1,11001,"English/European Literature 2: Gothic Lit",32,B,3,135,Galang,English
+1100,2,11002,"English/European Literature 2: Gothic Lit",32,B,5,135,Galang,English
+1107,1,11071,"AP Language and Composition 2",32,B,3,134,Innis,English
+1107,2,11072,"AP Language and Composition 2",32,B,5,134,Innis,English
+1108,1,11081,"Literature and Philosophy",32,C,2,134,Innis,English
+1120,1,11201,"Science Fiction & Fantasy",32,C,2,76,Lamarre,English
+1120,2,11202,"Science Fiction & Fantasy",32,C,4,T-19,Lo,English
+1120,3,11203,"Science Fiction & Fantasy",32,C,6,76,Lamarre,English
+1120,4,11204,"Science Fiction & Fantasy",32,C,6,T-19,Lo,English
+1120,5,11205,"Science Fiction & Fantasy",32,C,8,T19,Lo,English
+1121,1,11211,"Film as Literature",32,B,1,S108,Matusek,English
+1121,2,11212,"Film as Literature",32,B,3,137,Ritter,English
+1121,3,11213,"Film as Literature",32,C,4,S108,Matusek,English
+1121,4,11214,"Film as Literature",32,B,5,T-20,Yu,English
+1123,1,11231,Shakespeare,32,B,1,T-18,Hereford,English
+1123,2,11232,Shakespeare,32,B,5,137,Crabtree,English
+1123,3,11233,Shakespeare,32,B,7,T-18,Hereford,English
+1123,4,11234,Shakespeare,32,B,7,137,Crabtree,English
+1129,1,11291,"Eng.71H Writing and Literature",30,C,2,139,Carney,English
+1129,2,11292,"Eng.71H Writing and Literature",30,C,6,139,Carney,English
+1151,1,11511,"Literature and Philosophy: Ethics of Eating",32,C,4,136,Moffitt,English
+1151,2,11512,"Literature and Philosophy: Ethics of Eating",32,C,8,136,Moffitt,English
+1160,1,11601,"Expository Writing",30,B,1,T-17,Emerson,English
+1160,2,11602,"Expository Writing",30,C,2,T-19,Lo,English
+1160,3,11603,"Expository Writing",30,B,3,5,Nickels,English
+1160,4,11604,"Expository Writing",30,C,4,T-21,Hereford,English
+1160,5,11605,"Expository Writing",30,C,4,T-20,Yu,English
+1160,6,11606,"Expository Writing",30,B,5,T-16,Santiago,English
+1160,7,11607,"Expository Writing",30,C,6,130,Henares,English
+1160,8,11608,"Expository Writing",30,C,8,T-21,Wade,English
+1163,1,11631,"AP (83)/84 Man in Universe",32,C,4,T-18,Recht,English
+1163,2,11632,"AP (83)/84 Man in Universe",32,C,6,T-18,Recht,English
+1164,1,11641,"AP (80)/86 Heroes, Comic and Tragic",32,B,3,139,Carney,English
+1164,2,11642,"AP (80)/86 Heroes, Comic and Tragic",32,B,7,139,Carney,English
+1173,1,11731,"9th Grade English 2H",26,C,2,110,Bookwalter,English
+1173,2,11732,"9th Grade English 2H",26,B,5,137,Ritter,English
+1173,3,11733,"9th Grade English 2H",26,B,7,130,Henares,English
+1179,1,11791,"AP (74)/72 Shakespeare",30,C,2,137,Ritter,English
+1179,2,11792,"AP (74)/72 Shakespeare",30,C,4,137,Ritter,English
+1180,1,11801,"AP (75)/73 Lit and Philosophy",30,B,5,T-15,Yuan,English
+1183,1,11831,"AP (75)/77 The Heroine",30,C,2,136,Moffitt,English
+1183,2,11832,"AP (75)/77 The Heroine",30,C,6,136,Moffitt,English
+1200,1,12001,"Journalism 1",15,B,7,S108,Innis,English
+1200,2,12002,"Journalism 1",15,C,8,S108,Matusek,English
+1210,1,12101,"Journalism 2, Adv",32,B,7,S108,Innis,English
+1210,2,12102,"Journalism 2, Adv",32,C,8,S108,Matusek,English
+1211,1,12111,Yearbook,32,C,8,5,Nickels,English
+1229,1,12291,"10th Grade Eng 2/Writing for Pub 2",29,B,3,S108,Matusek,English
+1229,2,12292,"10th Grade Eng 2/Writing for Pub 2",29,B,5,S108,Matusek,English
+1534,1,15341,"Modern World 2",33,B,1,236,JAZAYERI,"Social Science"
+1534,2,15342,"Modern World 2",33,B,1,231,MARTIN,"Social Science"
+1534,3,15343,"Modern World 2",33,B,1,233,RAZNIKOV,"Social Science"
+1534,4,15344,"Modern World 2",33,C,2,220,FUREY,"Social Science"
+1534,5,15345,"Modern World 2",33,C,2,230,LUBENOW,"Social Science"
+1534,6,15346,"Modern World 2",33,B,3,253,MARTIN,"Social Science"
+1534,7,15347,"Modern World 2",33,B,3,233,RAZNIKOV,"Social Science"
+1534,8,15348,"Modern World 2",33,B,3,231,SHIMMON,"Social Science"
+1534,9,15349,"Modern World 2",33,C,4,220,FUREY,"Social Science"
+1534,10,153410,"Modern World 2",33,C,4,230,LUBENOW,"Social Science"
+1534,11,153411,"Modern World 2",33,B,5,217B,TUASON,"Social Science"
+1534,12,153412,"Modern World 2",33,B,5,255,WORTH,"Social Science"
+1534,13,153413,"Modern World 2",33,C,6,231,BELLVILLE,"Social Science"
+1534,14,153414,"Modern World 2",33,C,6,220,FUREY,"Social Science"
+1534,15,153415,"Modern World 2",33,C,6,217B,TUASON,"Social Science"
+1534,16,153416,"Modern World 2",33,B,7,231,MARTIN,"Social Science"
+1534,17,153417,"Modern World 2",33,B,7,233,RAZNIKOV,"Social Science"
+1534,18,153418,"Modern World 2",33,B,7,255,WORTH,"Social Science"
+1534,19,153419,"Modern World 2",33,C,8,231,BELLVILLE,"Social Science"
+1534,20,153420,"Modern World 2",33,C,8,220,FUREY,"Social Science"
+1575,1,15751,"US History 2",32,B,1,254,PROPHET,"Social Science"
+1575,2,15752,"US History 2",32,B,1,230,TUASON,"Social Science"
+1575,3,15753,"US History 2",32,C,2,238,SANCHEZ,"Social Science"
+1575,4,15754,"US History 2",32,B,3,230,TUASON,"Social Science"
+1575,5,15755,"US History 2",32,C,4,238,SANCHEZ,"Social Science"
+1575,6,15756,"US History 2",32,B,5,220,FUREY,"Social Science"
+1575,7,15757,"US History 2",32,C,6,238,SANCHEZ,"Social Science"
+1575,8,15758,"US History 2",32,C,6,141,STEELE,"Social Science"
+1575,9,15759,"US History 2",32,B,7,141,STEELE,"Social Science"
+1575,10,157510,"US History 2",32,B,7,230,TUASON,"Social Science"
+1575,11,157511,"US History 2",32,C,8,238,SANCHEZ,"Social Science"
+1577,1,15771,"AP US History 2",35,B,1,259,SCHMIDT,"Social Science"
+1577,2,15772,"AP US History 2",35,C,2,231,BELLVILLE,"Social Science"
+1577,3,15773,"AP US History 2",35,B,3,254,PROPHET,"Social Science"
+1577,4,15774,"AP US History 2",35,B,3,259,SCHMIDT,"Social Science"
+1577,5,15775,"AP US History 2",35,C,4,231,BELLVILLE,"Social Science"
+1577,6,15776,"AP US History 2",35,B,5,254,PROPHET,"Social Science"
+1577,7,15777,"AP US History 2",35,C,6,254,SCHWARZ,"Social Science"
+1577,8,15778,"AP US History 2",35,B,7,254,PROPHET,"Social Science"
+1577,9,15779,"AP US History 2",35,C,8,254,SCHWARZ,"Social Science"
+1588,1,15881,"AP Comparative Gov’t",35,C,4,233,RAZNIKOV,"Social Science"
+1594,1,15941,"American Democracy",33,B,1,255,DEAN,"Social Science"
+1594,2,15942,"American Democracy",33,C,2,259,WORTH,"Social Science"
+1594,3,15943,"American Democracy",33,B,3,255,DEAN,"Social Science"
+1594,4,15944,"American Democracy",33,C,4,259,WORTH,"Social Science"
+1594,5,15945,"American Democracy",33,B,5,259,SCHMIDT,"Social Science"
+1594,6,15946,"American Democracy",33,C,6,253,MAGSANAY,"Social Science"
+1594,7,15947,"American Democracy",33,B,7,259,SCHMIDT,"Social Science"
+1594,8,15948,"American Democracy",33,C,8,233,DEAN,"Social Science"
+1612,1,16121,"AP Economics 2 (Macro)",35,B,1,217B,"JOHNSON R.","Social Science"
+1612,2,16122,"AP Economics 2 (Macro)",35,B,1,238,SPELLICY,"Social Science"
+1612,3,16123,"AP Economics 2 (Macro)",35,C,2,217B,"JOHNSON R.","Social Science"
+1612,4,16124,"AP Economics 2 (Macro)",35,B,3,238,SPELLICY,"Social Science"
+1612,5,16125,"AP Economics 2 (Macro)",35,C,4,217B,"JOHNSON R.","Social Science"
+1612,6,16126,"AP Economics 2 (Macro)",35,B,5,238,SPELLICY,"Social Science"
+1612,7,16127,"AP Economics 2 (Macro)",35,C,6,230,LUBENOW,"Social Science"
+1612,8,16128,"AP Economics 2 (Macro)",35,B,7,238,SPELLICY,"Social Science"
+1612,9,16129,"AP Economics 2 (Macro)",35,C,8,230,LUBENOW,"Social Science"
+1621,1,16211,Economics,35,B,1,141,STEELE,"Social Science"
+1621,2,16212,Economics,35,C,2,141,STEELE,"Social Science"
+1621,3,16213,Economics,35,B,3,141,STEELE,"Social Science"
+1621,4,16214,Economics,35,C,6,255,GIRLING,"Social Science"
+1621,5,16215,Economics,35,C,8,255,GIRLING,"Social Science"
+1663,1,16631,"AP Psychology 2",35,B,1,257,KWONG,"Social Science"
+1663,2,16632,"AP Psychology 2",35,C,2,236,MICHELS,"Social Science"
+1663,3,16633,"AP Psychology 2",35,C,2,257,SHIMMON,"Social Science"
+1663,4,16634,"AP Psychology 2",35,B,3,236,JAZAYERI,"Social Science"
+1663,5,16635,"AP Psychology 2",35,B,3,257,KWONG,"Social Science"
+1663,6,16636,"AP Psychology 2",35,C,4,236,MICHELS,"Social Science"
+1663,7,16637,"AP Psychology 2",35,C,4,257,SHIMMON,"Social Science"
+1663,8,16638,"AP Psychology 2",35,B,5,236,JAZAYERI,"Social Science"
+1663,9,16639,"AP Psychology 2",35,B,5,257,KWONG,"Social Science"
+1663,10,166310,"AP Psychology 2",35,C,6,236,MICHELS,"Social Science"
+1663,11,166311,"AP Psychology 2",35,C,6,257,SHIMMON,"Social Science"
+1663,12,166312,"AP Psychology 2",35,B,7,236,JAZAYERI,"Social Science"
+1663,13,166313,"AP Psychology 2",35,C,8,236,MICHELS,"Social Science"
+1663,14,166314,"AP Psychology 2",35,C,8,257,SHIMMON,"Social Science"
+1683,1,16831,"AP Human Geography",35,C,4,253,MARTIN,"Social Science"
+1683,2,16832,"AP Human Geography",35,C,6,233,MARTIN,"Social Science"
+1683,3,16833,"AP Human Geography",35,B,7,217B,"JOHNSON R.","Social Science"
+1692,1,16921,"Peer Helping 2",6,A,3,T14,HORN,Other
+1692,2,16922,"Peer Helping 2",6,A,4,T14,HORN,Other
+1692,3,16923,"Peer Helping 2",6,A,7,T14,HORN,Other
+1696,1,16961,"Peer Helping 4",1,A,3,T14,HORN,Other
+1696,2,16962,"Peer Helping 4",1,A,4,T14,HORN,Other
+1696,3,16963,"Peer Helping 4",1,A,7,T14,HORN,Other
+1721,1,17211,"AP World History 2",34,B,1,253,MAGSANAY,"Social Science"
+1721,2,17212,"AP World History 2",34,C,2,255,GIRLING,"Social Science"
+1721,3,17213,"AP World History 2",34,C,4,255,GIRLING,"Social Science"
+1721,4,17214,"AP World History 2",34,B,5,253,MAGSANAY,"Social Science"
+1721,5,17215,"AP World History 2",34,B,7,253,MAGSANAY,"Social Science"
+1732,1,17321,"AP European History 2",35,C,2,254,SCHWARZ,"Social Science"
+1732,2,17322,"AP European History 2",35,C,4,254,SCHWARZ,"Social Science"
+2011,1,20111,"AP Statistics 2",34,B,1,340,Chambers,Math
+2011,2,20112,"AP Statistics 2",34,C,2,244,Sullivan,Math
+2011,3,20113,"AP Statistics 2",34,B,3,340,Chambers,Math
+2011,4,20114,"AP Statistics 2",34,C,4,244,Sullivan,Math
+2011,5,20115,"AP Statistics 2",34,B,5,340,Chambers,Math
+2093,1,20931,"Algebra 1",10,C,7,272,Hong,Math
+2103,1,21031,"Algebra 2",31,B,1,272,Hong,Math
+2103,2,21032,"Algebra 2",31,C,2,258,Mana,Math
+2103,3,21033,"Algebra 2",31,C,4,258,Mana,Math
+2103,4,21034,"Algebra 2",19,B,7,272,Hong,Math
+2113,1,21131,"Geometry 1",25,C,2,336,Ambrose,Math
+2113,2,21132,"Geometry 1",25,B,3,244,Hong,Math
+2113,3,21133,"Geometry 1",25,C,4,336,Ambrose,Math
+2123,1,21231,"Geometry 2",33,B,1,273,Telep,Math
+2123,2,21232,"Geometry 2",33,C,2,274,Fahey,Math
+2123,3,21233,"Geometry 2",33,B,3,336,Sinn,Math
+2123,4,21234,"Geometry 2",33,B,3,273,Telep,Math
+2123,5,21235,"Geometry 2",33,C,4,270,Evans,Math
+2123,6,21236,"Geometry 2",33,C,4,274,Fahey,Math
+2123,7,21237,"Geometry 2",33,C,4,340,Karapetyan,Math
+2123,8,21238,"Geometry 2",33,B,5,275,Rosales,Math
+2123,9,21239,"Geometry 2",33,B,5,S104,Sinn,Math
+2123,10,212310,"Geometry 2",33,C,6,258,Evans,Math
+2123,11,212311,"Geometry 2",33,C,6,340,Karapetyan,Math
+2123,12,212312,"Geometry 2",33,C,6,271,"Teacher A",Math
+2123,13,212313,"Geometry 2",33,B,7,275,Rosales,Math
+2123,14,212314,"Geometry 2",33,C,8,271,"Teacher A",Math
+2147,1,21471,"Adv. Algebra 1",30,C,2,251,"E. Li",Math
+2147,2,21472,"Adv. Algebra 1",30,C,4,251,"Teacher A",Math
+2147,3,21473,"Adv. Algebra 1",30,C,6,251,"E. Li",Math
+2154,1,21541,"Adv. Algebra 2",34,B,1,336,Ambrose,Math
+2154,2,21542,"Adv. Algebra 2",34,C,2,271,Warshaw,Math
+2154,3,21543,"Adv. Algebra 2",34,C,2,338,Chan,Math
+2154,4,21544,"Adv. Algebra 2",31,B,3,270,Evans,Math
+2154,5,21545,"Adv. Algebra 2",31,C,4,271,Warshaw,Math
+2154,6,21546,"Adv. Algebra 2",31,C,4,275,Hong,Math
+2154,7,21547,"Adv. Algebra 2",31,B,5,336,Ambrose,Math
+2154,8,21548,"Adv. Algebra 2",31,C,6,244,Hong,Math
+2154,9,21549,"Adv. Algebra 2",31,C,6,273,Telep,Math
+2154,10,215410,"Adv. Algebra 2",31,B,7,258,Evans,Math
+2154,11,215411,"Adv. Algebra 2",31,C,8,338,Chan,Math
+2156,1,21561,"Geometry 2H",34,B,1,258,Mana,Math
+2156,2,21562,"Geometry 2H",34,C,2,S104,Cohen,Math
+2156,3,21563,"Geometry 2H",34,C,4,S104,Cohen,Math
+2156,4,21564,"Geometry 2H",34,C,6,270,Hoffman,Math
+2156,5,21565,"Geometry 2H",34,B,7,270,Hoffman,Math
+2184,1,21841,"AP Calculus AB2",31,B,1,271,Warshaw,Math
+2184,2,21842,"AP Calculus AB2",31,C,2,272,Gribler,Math
+2184,3,21843,"AP Calculus AB2",31,B,3,271,Warshaw,Math
+2184,4,21844,"AP Calculus AB2",31,B,5,244,Sullivan,Math
+2184,5,21845,"AP Calculus AB2",31,C,6,272,Gribler,Math
+2184,6,21846,"AP Calculus AB2",31,B,7,244,Sullivan,Math
+2186,1,21861,"AP Calculus BC2",32,B,1,270,Hoffman,Math
+2186,2,21862,"AP Calculus BC2",32,C,2,270,Hoffman,Math
+2186,3,21863,"AP Calculus BC2",32,B,3,S104,Cohen,Math
+2206,1,22061,"Pre-Calculus 1",35,B,3,272,"Teacher A",Math
+2206,2,22062,"Pre-Calculus 1",35,B,7,271,"Teacher A",Math
+2207,1,22071,"Pre-Calculus 2",32,B,1,274,Fahey,Math
+2207,2,22072,"Pre-Calculus 2",32,C,2,275,Rosales,Math
+2207,3,22073,"Pre-Calculus 2",32,C,2,273,Telep,Math
+2207,4,22074,"Pre-Calculus 2",32,B,3,338,Karapetyan,Math
+2207,5,22075,"Pre-Calculus 2",32,B,3,258,Mana,Math
+2207,6,22076,"Pre-Calculus 2",32,C,4,273,Telep,Math
+2207,7,22077,"Pre-Calculus 2",32,B,5,274,Fahey,Math
+2207,8,22078,"Pre-Calculus 2",32,B,5,258,Mana,Math
+2207,9,22079,"Pre-Calculus 2",32,C,6,336,Ambrose,Math
+2207,10,220710,"Pre-Calculus 2",32,C,6,275,Rosales,Math
+2207,11,220711,"Pre-Calculus 2",32,B,7,338,Chan,Math
+2207,12,220712,"Pre-Calculus 2",32,B,7,274,Fahey,Math
+2207,13,220713,"Pre-Calculus 2",32,C,8,275,Rosales,Math
+2209,1,22091,"Pre-Calculus 2H",34,B,3,251,"E. Li",Math
+2209,2,22092,"Pre-Calculus 2H",34,C,4,272,Gribler,Math
+2209,3,22093,"Pre-Calculus 2H",34,B,5,251,"E. Li",Math
+2209,4,22094,"Pre-Calculus 2H",34,B,7,251,"E. Li",Math
+2209,5,22095,"Pre-Calculus 2H",34,C,8,272,Gribler,Math
+2225,1,22251,"Accel Math 2H",33,B,1,338,Karapetyan,Math
+2225,2,22252,"Accel Math 2H",33,C,2,340,Sinn,Math
+2225,3,22253,"Accel Math 2H",33,C,4,338,Chan,Math
+2225,4,22254,"Accel Math 2H",33,C,6,338,Chan,Math
+2225,5,22255,"Accel Math 2H",33,C,6,S104,Sinn,Math
+2225,6,22256,"Accel Math 2H",33,B,7,340,Karapetyan,Math
+2225,7,22257,"Accel Math 2H",33,C,8,258,Evans,Math
+2412,1,24121,"Computer Programming 1",40,A,8,334,Sinn,Math
+2415,1,24151,"Computer Repair1",30,A,4,334,Simon,Math
+2416,1,24161,"Computer Programming 2",40,A,2,334,Simon,Math
+2416,2,24162,"Computer Programming 2",40,A,7,334,Simon,Math
+2452,1,24521,"AP Computer Science 2",41,B,3,334,Simon,Math
+2530,1,25301,"PE 2",37,A,1,GYM,Lopez,PE
+2530,2,25302,"PE 2",37,A,1,GYM,Taylor-Ray,PE
+2530,3,25303,"PE 2",37,A,2,GYM,Lopez,PE
+2530,4,25304,"PE 2",37,A,2,GYM,Prutz,PE
+2530,5,25305,"PE 2",37,A,2,GYM,Taylor-Ray,PE
+2530,6,25306,"PE 2",37,A,3,GYM,Hosoda,PE
+2530,7,25307,"PE 2",37,A,3,GYM,Prutz,PE
+2530,8,25308,"PE 2",37,A,3,GYM,Taylor-Ray,PE
+2530,9,25309,"PE 2",37,A,4,GYM,Doherty,PE
+2530,10,253010,"PE 2",37,A,4,GYM,Hosoda,PE
+2530,11,253011,"PE 2",37,A,5,GYM,Doherty,PE
+2530,12,253012,"PE 2",37,A,5,GYM,Gersten,PE
+2530,13,253013,"PE 2",37,A,5,GYM,Lopez,PE
+2530,14,253014,"PE 2",37,A,6,GYM,Gersten,PE
+2530,15,253015,"PE 2",37,A,6,GYM,Lopez,PE
+2530,16,253016,"PE 2",37,A,7,GYM,Doherty,PE
+2530,17,253017,"PE 2",37,A,7,GYM,Lopez,PE
+2530,18,253018,"PE 2",37,A,7,GYM,Prutz,PE
+2530,19,253019,"PE 2",37,A,8,GYM,Gersten,PE
+2549,1,25491,"PE 4",2,A,1,Pool,Doherty,PE
+2549,2,25492,"PE 4",37,A,1,GYM,Hosoda,PE
+2549,3,25493,"PE 4",37,A,1,GYM,Ray,PE
+2549,4,25494,"PE 4",37,A,2,GYM,Axt,PE
+2549,5,25495,"PE 4",37,A,2,GYM,Geren,PE
+2549,6,25496,"PE 4",37,A,2,GYM,Ray,PE
+2549,7,25497,"PE 4",37,A,3,GYM,Axt,PE
+2549,8,25498,"PE 4",37,A,3,GYM,Doherty,PE
+2549,9,25499,"PE 4",37,A,3,GYM,Ray,PE
+2549,10,254910,"PE 4",37,A,4,GYM,Axt,PE
+2549,11,254911,"PE 4",37,A,4,GYM,Geren,PE
+2549,12,254912,"PE 4",23,A,5,GYM,Hosoda,PE
+2549,13,254913,"PE 4",37,A,5,GYM,Taylor-Ray,PE
+2549,14,254914,"PE 4",37,A,6,GYM,Axt,PE
+2549,15,254915,"PE 4",37,A,6,GYM,Geren,PE
+2549,16,254916,"PE 4",3,A,6,GYM,Taylor-Ray,PE
+2549,17,254917,"PE 4",37,A,7,GYM,Geren,PE
+2549,18,254918,"PE 4",19,A,7,GYM,Ray,PE
+2549,19,254919,"PE 4",37,A,8,GYM,Axt,PE
+2549,20,254920,"PE 4",37,A,8,GYM,Geren,PE
+2552,1,25521,"PE 6",15,A,1,GYM,Prutz,PE
+2552,2,25522,"PE 6",15,A,4,GYM,Prutz,PE
+2552,3,25523,"PE 6",15,A,7,GYM,Jones,PE
+2554,1,25541,"PE 8",15,A,1,GYM,Prutz,PE
+2554,2,25542,"PE 8",15,A,4,GYM,Prutz,PE
+2554,3,25543,"PE 8",15,A,7,GYM,Jones,PE
+2556,1,25561,"Basketball 2",18,A,7,GYM,Ray,PE
+2562,1,25621,"Weight Training 2",34,A,6,GYM,Taylor-Ray,PE
+2564,1,25641,"Racket Sports 2",14,A,5,GYM,Hosoda,PE
+2571,1,25711,"Swimming 2",35,A,1,POOL,Doherty,PE
+2901,1,29011,"JROTC LDRS Lab",25,B,9,4,Bullard,JROTC
+2910,1,29101,"JROTC 1",25,A,5,4,Bullard,JROTC
+2910,2,29102,"JROTC 1",25,A,6,4,Bullard,JROTC
+2910,3,29103,"JROTC 1",25,A,7,4,Bullard,JROTC
+2910,4,29104,"JROTC 1",25,A,8,4,Bullard,JROTC
+2920,1,29201,"JROTC 2",25,A,5,4,Bullard,JROTC
+2920,2,29202,"JROTC 2",25,A,6,4,Bullard,JROTC
+2920,3,29203,"JROTC 2",25,A,7,4,Bullard,JROTC
+2920,4,29204,"JROTC 2",25,A,8,4,Bullard,JROTC
+2921,1,29211,"JROTC 3",25,A,5,4,Bullard,JROTC
+2921,2,29212,"JROTC 3",25,A,6,4,Bullard,JROTC
+2921,3,29213,"JROTC 3",25,A,7,4,Bullard,JROTC
+2921,4,29214,"JROTC 3",25,A,8,4,Bullard,JROTC
+2922,1,29221,"JROTC 4",25,A,5,4,Bullard,JROTC
+2922,2,29222,"JROTC 4",25,A,6,4,Bullard,JROTC
+2922,3,29223,"JROTC 4",25,A,7,4,Bullard,JROTC
+2922,4,29224,"JROTC 4",25,A,8,4,Bullard,JROTC
+2923,1,29231,"JROTC 5",25,A,5,4,Bullard,JROTC
+2923,2,29232,"JROTC 5",25,A,6,4,Bullard,JROTC
+2923,3,29233,"JROTC 5",25,A,7,4,Bullard,JROTC
+2923,4,29234,"JROTC 5",25,A,8,4,Bullard,JROTC
+2924,1,29241,"JROTC 6",25,A,5,4,Bullard,JROTC
+2924,2,29242,"JROTC 6",25,A,6,4,Bullard,JROTC
+2924,3,29243,"JROTC 6",25,A,7,4,Bullard,JROTC
+2924,4,29244,"JROTC 6",25,A,8,4,Bullard,JROTC
+2925,1,29251,"JROTC 7",25,A,5,4,Bullard,JROTC
+2925,2,29252,"JROTC 7",25,A,6,4,Bullard,JROTC
+2925,3,29253,"JROTC 7",25,A,7,4,Bullard,JROTC
+2925,4,29254,"JROTC 7",25,A,8,4,Bullard,JROTC
+2926,1,29261,"JROTC 7",25,A,5,4,Bullard,JROTC
+2926,2,29262,"JROTC 7",25,A,6,4,Bullard,JROTC
+2926,3,29263,"JROTC 7",25,A,7,4,Bullard,JROTC
+2926,4,29264,"JROTC 7",25,A,8,4,Bullard,JROTC
+2970,1,29701,"JROTC Drill Lab",25,A,9,4,Bullard,JROTC
+3009,1,30091,Robotics,34,B,9,"S 203",Cooley,Science
+3030,1,30301,"Biology 2",34,B,1,239,Christensen,Science
+3030,2,30302,"Biology 2",34,B,1,241,"Johnson,T",Science
+3030,3,30303,"Biology 2",34,C,2,239,Bird,Science
+3030,4,30304,"Biology 2",34,C,2,241,"Johnson,T",Science
+3030,5,30305,"Biology 2",34,C,2,S204,Wenning,Science
+3030,6,30306,"Biology 2",34,B,3,239,Bird,Science
+3030,7,30307,"Biology 2",34,B,3,S204,Wenning,Science
+3030,8,30308,"Biology 2",34,C,4,239,Bird,Science
+3030,9,30309,"Biology 2",34,C,4,241,"Johnson,T",Science
+3030,10,303010,"Biology 2",34,C,4,S204,Wenning,Science
+3030,11,303011,"Biology 2",34,B,5,S204,"Johnson,T",Science
+3030,12,303012,"Biology 2",34,C,6,239,Christensen,Science
+3030,13,303013,"Biology 2",34,C,6,S204,"Johnson,T",Science
+3030,14,303014,"Biology 2",34,B,7,235,Bird,Science
+3030,15,303015,"Biology 2",34,B,7,239,Christensen,Science
+3030,16,303016,"Biology 2",34,B,7,263,Hill,Science
+3030,17,303017,"Biology 2",34,B,7,S204,Wenning,Science
+3030,18,303018,"Biology 2",34,C,8,235,Bird,Science
+3030,19,303019,"Biology 2",34,C,8,263,Hill,Science
+3030,20,303020,"Biology 2",34,C,8,S204,Wenning,Science
+3060,1,30601,"Chemistry 2",32,B,1,337,Fong,Science
+3060,2,30602,"Chemistry 2",32,C,2,333,Rotter,Science
+3060,3,30603,"Chemistry 2",32,C,2,339,"Johnson,K",Science
+3060,4,30604,"Chemistry 2",32,B,3,337,Fong,Science
+3060,5,30605,"Chemistry 2",32,B,3,335,Trimble,Science
+3060,6,30606,"Chemistry 2",32,C,4,333,Rotter,Science
+3060,7,30607,"Chemistry 2",32,C,4,335,Trimble,Science
+3060,8,30608,"Chemistry 2",32,B,5,335,Trimble,Science
+3060,9,30609,"Chemistry 2",32,B,5,337,DelaRiarte,Science
+3060,10,306010,"Chemistry 2",32,C,6,339,"Johnson,K",Science
+3060,11,306011,"Chemistry 2",32,B,7,337,DelaRiarte,Science
+3060,12,306012,"Chemistry 2",32,C,8,333,Rotter,Science
+3076,1,30761,"Environmental Science 2",34,C,6,261,Melvin,Science
+3081,1,30811,"Geology 2",34,C,4,S202,Dickerman,Science
+3129,1,31291,"Chemistry 2H",32,B,1,339,"Johnson,K",Science
+3129,2,31292,"Chemistry 2H",32,C,2,335,Marten,Science
+3129,3,31293,"Chemistry 2H",32,B,3,333,Rotter,Science
+3129,4,31294,"Chemistry 2H",32,B,5,339,"Johnson,K",Science
+3129,5,31295,"Chemistry 2H",32,C,6,335,Marten,Science
+3129,6,31296,"Chemistry 2H",32,B,7,333,Rotter,Science
+3129,7,31297,"Chemistry 2H",32,B,7,339,"Johnson,K",Science
+3183,1,31831,"AP Environmental Science 2",34,B,1,261,Melvin,Science
+3183,2,31832,"AP Environmental Science 2",34,C,2,261,Melvin,Science
+3189,1,31891,"AP Biology 2",32,B,1,235,Swett,Science
+3189,2,31892,"AP Biology 2",32,C,2,263,Hill,Science
+3189,3,31893,"AP Biology 2",32,B,3,235,Swett,Science
+3189,4,31894,"AP Biology 2",32,C,4,263,Hill,Science
+3189,5,31895,"AP Biology 2",32,B,5,235,Swett,Science
+3220,1,32201,"Physiology 2",34,B,1,114,Newhouse,Science
+3220,2,32202,"Physiology 2",34,C,2,114,Newhouse,Science
+3220,3,32203,"Physiology 2",34,B,3,241,Laureyns,Science
+3220,4,32204,"Physiology 2",34,B,5,241,Laureyns,Science
+3220,5,32205,"Physiology 2",34,C,6,241,Laureyns,Science
+3220,6,32206,"Physiology 2",34,B,7,241,Laureyns,Science
+3220,7,32207,"Physiology 2",34,C,8,241,Laureyns,Science
+3228,1,32281,"Marine Science 2",34,B,3,261,Christensen,Science
+3228,2,32282,"Marine Science 2",34,C,4,261,Christensen,Science
+3228,3,32283,"Marine Science 2",34,B,5,261,Melvin,Science
+3279,1,32791,"Physics 2",34,B,1,S203,DeLRiarte,Science
+3279,2,32792,"Physics 2",34,C,2,S203,DeLRiarte,Science
+3279,3,32793,"Physics 2",34,B,3,S203,DeLRiarte,Science
+3279,4,32794,"Physics 2",34,B,3,S205,Prothro,Science
+3279,5,32795,"Physics 2",34,C,6,S201,Shapiro,Science
+3279,6,32796,"Physics 2",34,B,7,S205,Prothro,Science
+3279,7,32797,"Physics 2",34,C,8,S205,Prothro,Science
+3306,1,33061,"Physics 2H",34,C,2,S205,Prothro,Science
+3306,2,33062,"Physics 2H",34,B,3,S202,Cooley,Science
+3306,3,33063,"Physics 2H",34,C,4,S203,Cooley,Science
+3306,4,33064,"Physics 2H",34,C,6,S205,Prothro,Science
+3306,5,33065,"Physics 2H",34,B,7,S203,Cooley,Science
+3306,6,33066,"Physics 2H",34,C,8,S203,Cooley,Science
+3331,1,33311,"AP Physics B",34,B,1,S202,Dickerman,Science
+3331,2,33312,"AP Physics B",34,B,5,S202,Dickerman,Science
+3331,3,33313,"AP Physics B",34,B,7,S202,Dickerman,Science
+3333,1,33331,"AP Physics CEM",25,C,2,S201,Shapiro,Science
+3333,2,33332,"AP Physics CEM",25,C,4,S201,Shapiro,Science
+3343,1,33431,"AP Chemistry 2",32,B,1,335,Marten,Science
+3343,2,33432,"AP Chemistry 2",32,C,2,337,Fong,Science
+3343,3,33433,"AP Chemistry 2",32,C,6,337,Fong,Science
+3343,4,33434,"AP Chemistry 2",32,B,7,335,Marten,Science
+3663,1,36631,"Off Occ/CVE",34,A,8,S106,NAGER,Other
+3668,2,36682,"Merch MKTG/CVE",34,A,8,S106,NAGER,Other
+3709,1,37091,"Principles of Biotechnology 2",32,C,4,114,Newhouse,Science
+3709,2,37092,"Principles of Biotechnology 2",32,C,6,114,Newhouse,Science
+3709,3,37093,"Principles of Biotechnology 2",32,B,7,114,Newhouse,Science
+4012,1,40121,"Chinese 2",33,B,1,214,Liang,"World Languages"
+4012,2,40122,"Chinese 2",33,C,2,212,Liang,"World Languages"
+4012,3,40123,"Chinese 2",33,C,4,212,Liang,"World Languages"
+4012,4,40124,"Chinese 2",33,C,6,212,Liang,"World Languages"
+4012,5,40125,"Chinese 2",33,B,7,211,Danforth,"World Languages"
+4014,1,40141,"Chinese 4",30,A,2,211,Danforth,"World Languages"
+4014,2,40142,"Chinese 4",30,A,8,211,Danforth,"World Languages"
+4014,3,40143,"Chinese 4",30,A,6,216,Li,"World Languages"
+4014,4,40144,"Chinese 4",30,A,7,216,Li,"World Languages"
+4014,5,40145,"Chinese 4",30,A,3,146,Pang,"World Languages"
+4014,6,40146,"Chinese 4",30,A,4,146,Pang,"World Languages"
+4016,1,40161,"Chinese 6",35,B,1,211,Danforth,"World Languages"
+4016,2,40162,"Chinese 6",35,B,3,211,Danforth,"World Languages"
+4028,1,40281,"AP Chinese 2",31,B,1,212,Chang,"World Languages"
+4028,2,40282,"AP Chinese 2",31,B,3,212,Chang,"World Languages"
+4028,3,40283,"AP Chinese 2",31,B,5,212,Chang,"World Languages"
+4028,4,40284,"AP Chinese 2",16,B,7,212,Liang,"World Languages"
+4048,1,40481,"Chinese 6H",35,C,2,216,Li,"World Languages"
+4048,2,40482,"Chinese 6H",35,C,4,216,Li,"World Languages"
+4048,3,40483,"Chinese 6H",35,C,8,216,Li,"World Languages"
+4052,1,40521,"French 2",27,B,5,146,Pang,"World Languages"
+4052,2,40522,"French 2",27,B,7,146,Pang,"World Languages"
+4054,1,40541,"French 4",31,A,3,256,Raya,"World Languages"
+4054,2,40542,"French 4",31,A,7,256,Raya,"World Languages"
+4067,1,40671,"French 6H",24,B,1,256,Raya,"World Languages"
+4067,2,40672,"French 6H",24,B,5,256,Raya,"World Languages"
+4069,1,40691,"AP French 2",13,C,2,256,Raya,"World Languages"
+4090,1,40901,"Italian 6H",32,B,3,S102,Branzburg,"World Languages"
+4092,1,40921,"Italian 2",30,C,4,T24,Pelagatti,"World Languages"
+4092,2,40922,"Italian 2",30,C,6,T24,Pelagatti,"World Languages"
+4094,1,40941,"Italian 4",26,A,7,S102,Branzburg,"World Languages"
+4094,2,40942,"Italian 4",26,A,8,S102,Branzburg,"World Languages"
+4096,1,40961,"Italian 6",24,C,2,S102,Branzburg,"World Languages"
+4104,1,41041,"Italian 8H",26,C,4,S102,Branzburg,"World Languages"
+4112,1,41121,"Japanese 2",29,C,2,218,Okada,"World Languages"
+4112,2,41122,"Japanese 2",29,B,5,211,Yoshimura-Lee,"World Languages"
+4114,1,41141,"Japanese 4",21,A,6,218,Okada,"World Languages"
+4114,2,41142,"Japanese 4",21,A,8,218,Okada,"World Languages"
+4116,1,41161,"Japanese 6",6,C,6,211,Yoshimura-Lee,"World Languages"
+4116,2,41162,"Japanese 6",7,C,8,212,Yoshimura-Lee,"World Languages"
+4119,1,41191,"AP Japanese 2",19,C,4,218,Okada,"World Languages"
+4123,1,41231,"Japanese 6H",18,C,6,211,Yoshimura-Lee,"World Languages"
+4123,2,41232,"Japanese 6H",17,C,8,212,Yoshimura-Lee,"World Languages"
+4129,1,41291,"Korean 6",14,B,3,215,Cho,"World Languages"
+4132,1,41321,"Latin 2",31,B,3,140,Williams,"World Languages"
+4134,1,41341,"Latin 4",32,A,2,140,Williams,"World Languages"
+4136,1,41361,"Latin 6",25,C,4,140,Williams,"World Languages"
+4152,1,41521,"Spanish 2",28,C,2,214,Ballbe,"World Languages"
+4152,2,41522,"Spanish 2",28,C,2,142,Collins,"World Languages"
+4152,3,41523,"Spanish 2",28,C,4,142,Collins,"World Languages"
+4152,4,41524,"Spanish 2",28,C,6,140,Collins,"World Languages"
+4152,5,41525,"Spanish 2",28,C,8,140,Collins,"World Languages"
+4152,6,41526,"Spanish 2",28,B,1,219,Lipman,"World Languages"
+4152,7,41527,"Spanish 2",28,B,3,219,Lipman,"World Languages"
+4154,1,41541,"Spanish 4",27,A,3,214,Ballbe,"World Languages"
+4154,2,41542,"Spanish 4",27,A,4,214,Ballbe,"World Languages"
+4154,3,41543,"Spanish 4",27,A,8,214,Ballbe,"World Languages"
+4154,4,41544,"Spanish 4",27,A,5,140,Collins,"World Languages"
+4154,5,41545,"Spanish 4",27,A,2,219,Lipman,"World Languages"
+4154,6,41546,"Spanish 4",27,A,6,219,Lipman,"World Languages"
+4154,7,41547,"Spanish 4",27,A,7,219,Lipman,"World Languages"
+4154,8,41548,"Spanish 4",27,A,3,142,Maquinana,"World Languages"
+4156,1,41561,"Spanish 6",33,B,7,214,Ballbe,"World Languages"
+4156,2,41562,"Spanish 6",33,C,2,T24,Cadoppi,"World Languages"
+4156,3,41563,"Spanish 6",33,C,8,T24,Cadoppi,"World Languages"
+4167,1,41671,"Spanish 6H",31,B,3,T24,Cadoppi,"World Languages"
+4167,2,41672,"Spanish 6H",31,B,7,142,Maquinana,"World Languages"
+4170,1,41701,"AP Spanish Lang 2",22,B,1,142,Maquinana,"World Languages"
+4170,2,41702,"AP Spanish Lang 2",22,B,5,142,Maquinana,"World Languages"
+4207,1,42071,"Korean 8",8,B,3,215,Cho,"World Languages"
+4212,1,42121,"Korean 2",31,C,4,215,Cho,"World Languages"
+4212,2,42122,"Korean 2",31,C,6,215,Cho,"World Languages"
+4214,1,42141,"Korean 4",21,A,2,215,Cho,"World Languages"
+4214,2,42142,"Korean 4",21,A,8,215,Cho,"World Languages"
+4222,1,42221,"Hebrew 2",4,C,4,211,Horsky,"World Languages"
+4224,1,42241,"Hebrew 4",9,C,4,211,Horsky,"World Languages"
+4226,1,42261,"Hebrew 6",1,B,5,214,Horsky,"World Languages"
+4228,1,42281,"Hebrew 8",2,B,5,214,Horsky,"World Languages"
+6011,1,60111,"Art in Architecture 1",16,A,1,330,Pollak,VPA
+6011,2,60112,"Art in Architecture 1",16,A,2,330,Pollak,VPA
+6011,3,60113,"Art in Architecture 1",17,A,3,330,Pollak,VPA
+6012,1,60121,"Adv Art in Arch 1",0,A,1,330,Pollak,VPA
+6012,2,60122,"Adv Art in Arch 1",0,A,2,330,Pollak,VPA
+6012,3,60123,"Adv Art in Arch 1",3,A,3,330,Pollak,VPA
+6013,1,60131,"Adv Art in Arch 2",0,A,1,330,Pollak,VPA
+6013,2,60132,"Adv Art in Arch 2",0,A,2,330,Pollak,VPA
+6013,3,60133,"Adv Art in Arch 2",1,A,3,330,Pollak,VPA
+6020,1,60201,"Art 2",30,A,1,75,Janssen,VPA
+6020,2,60202,"Art 2",30,A,7,75,Janssen,VPA
+6021,1,60211,"Art in Architecture 2",4,A,1,330,Pollak,VPA
+6021,2,60212,"Art in Architecture 2",4,A,2,330,Pollak,VPA
+6021,3,60213,"Art in Architecture 2",4,A,3,330,Pollak,VPA
+6025,1,60251,"Art Adv",30,A,2,75,Janssen,VPA
+6038,1,60381,"Studio Art AP 2",21,B,3,75/76,Janssen,VPA
+6049,1,60491,"Ceramics 2",30,A,2,S001,Rode,VPA
+6049,2,60492,"Ceramics 2",30,A,3,S001,Rode,VPA
+6049,3,60493,"Ceramics 2",30,A,4,S001,Rode,VPA
+6049,4,60494,"Ceramics 2",30,A,7,S001,Rode,VPA
+6049,5,60495,"Ceramics 2",11,A,8,S001,Rode,VPA
+6055,1,60551,"Ceramics Adv 1",12,A,3,S001,Rode,VPA
+6056,1,60561,"Ceramics Adv 2",9,A,3,S001,Rode,VPA
+6395,1,63951,"Photography 1",20,A,6,330,Pollak,VPA
+6396,1,63961,"Photography 2",30,A,7,330,Pollak,VPA
+7030,1,70301,"Band Adv",31,A,4,71,Wagner,VPA
+7033,1,70331,"Symphonic Band 2",24,C,2,71,Wagner,VPA
+7040,1,70401,"Dance Beg",35,A,3,GYM,Jones,VPA
+7040,2,70402,"Dance Beg",35,A,4,GYM,Jones,VPA
+7050,1,70501,"Dance Int",35,A,5,GYM,Jones,VPA
+7060,1,70601,"Dance Adv",42,C,8,GYM,Jones,VPA
+7100,1,71001,"Jazz Band",17,B,7,71,Wagner,VPA
+7105,1,71051,"Music AP",25,B,5,70,Winter,VPA
+7150,1,71501,"Orch Int",58,A,8,71,Winter,VPA
+7160,1,71601,"Orch Adv",37,A,3,71,Winter,VPA
+7163,1,71631,"Symphony Orch 2",65,C,2,70,Winter,VPA
+7180,1,71801,"Piano Lab 2",25,A,5,74,Wagner,VPA
+7180,2,71802,"Piano Lab 2",25,A,6,74,Wagner,VPA
+7230,1,72301,"Vocal Music Beg",35,A,4,70,Chan,VPA
+7230,2,72302,"Vocal Music Beg",35,A,8,70,Chan,VPA
+7240,1,72401,"Vocal Music Int",45,A,3,70,Chan,VPA
+7250,1,72501,"Vocal Music Adv",50,B,7,70,Chan,VPA
+7301,1,73011,"Drama 1",15,A,4,110,Bookwalter,VPA
+7301,2,73012,"Drama 1",15,A,5,110,Bookwalter,VPA
+7302,1,73021,"Drama 2",3,A,4,110,Bookwalter,VPA
+7302,2,73022,"Drama 2",3,A,5,110,Bookwalter,VPA
+7303,1,73031,"Drama Adv",35,C,6,110,Bookwalter,VPA
+7305,1,73051,"Theater Tech Beg",24,A,8,AUD/76,Bookwalter,VPA
+7306,1,73061,"Theater Tech Int",3,B,7,AUD,Bookwalter,VPA
+7307,1,73071,"Theater Tech Adv",1,B,7,AUD,Bookwalter,VPA
+8042,1,80421,"Health Education",35,A,2,260,COLE,Other
+8042,2,80422,"Health Education",35,A,3,260,COLE,Other
+8042,3,80423,"Health Education",35,A,4,260,COLE,Other
+8042,4,80424,"Health Education",35,A,8,260,COLE,Other
+8048,1,80481,Leadership,27,A,6,80A,"CHAN, J",Other
+8056,1,80561,"College & Career Planning",23,A,4,76,NAGER,Other
+8080,1,80801,Leadership,8,A,8,T14,HORN,Other
+9823,1,98231,"Study Skills",20,A,5,S106,NAGER,Other
+9823,2,98232,"Study Skills",20,A,6,S106,COLE,Other

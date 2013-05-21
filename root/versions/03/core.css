@@ -1,0 +1,315 @@
+#optionsPanel {
+	position: absolute;
+	z-index: 4;
+	top: 0;
+	left: 0;
+	width: 280px;
+	bottom: 0;
+	
+	overflow: hidden;
+	background-color: #eee;
+	
+	-webkit-border-radius: 12px 12px 0 0;
+	-moz-border-radius: 12px 12px 0 0;
+	border-radius: 12px 12px 0 0;
+}
+
+#resultsPanel {
+	position: absolute;
+	z-index: 2;
+	top: 0;
+	left: 280px;
+	right: 0;
+	bottom: 0;
+	
+	overflow: auto;
+	padding-bottom: 64px; /* account for hidden tab */
+}
+
+#tabHeader {
+	height: 48px;
+	font-size: 14px;
+}
+
+#tabHeader > div {
+	padding: 12px;
+}
+
+#tabToggle {
+	cursor: pointer;
+}
+
+#loadingIcon {
+	display: block;
+	float: right;
+	display: none;
+}
+
+#tabBar {
+	position: absolute;
+	top: 48px;
+	left: 8px;
+	width: 264px;
+}
+
+#tabBar a {
+	display: block;
+	float: left;
+	width: 50%;
+	height: 20px;
+	padding: 12px 0;
+	
+	text-align: center;
+	font-size: 14px;
+	
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	
+	-webkit-border-radius: 12px 12px 0 0;
+	-moz-border-radius: 12px 12px 0 0;
+	border-radius: 12px 12px 0 0;
+}
+
+#tabBar a:hover {
+	background-color: #e5e5e5;
+}
+
+#tabBar .tabActive {
+	background-color: #ddd !important;
+}
+
+#tabContent {
+	position: absolute;
+	top: 92px;
+	left: 8px;
+	width: 264px;
+	bottom: 136px;
+	
+	background-color: #ddd;
+	overflow: auto;
+	
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	
+	cursor: default;
+}
+
+#tabContent > div, #pageContent > div {
+	padding: 4px;
+	display: none;
+}
+
+#tabContent > div.tabActive, #pageContent > div.pageActive {
+	display: block;
+}
+
+#optionTab .advanced {
+	font-size: 0.76em;
+	border: 1px solid #808080;
+	padding: 8px;
+}
+
+.deptHeader {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.deptCourses {
+	margin: 4px 0;
+	padding: 0;
+	font-size: 13px;
+}
+
+.deptCourses li {
+	display: block;
+	
+	border-style: solid;
+	border-color: #ccc;
+	border-width: 0 0 1px 0;
+}
+
+.courseHeader label {
+	padding: 0 6px; 
+}
+
+.courseHeader input, .courseHeader label {
+	cursor: pointer;
+}
+
+.courseLock {
+	display: none;
+	float: right;
+	width: 20px;
+	height: 20px;
+	cursor: pointer;
+	background-image: url(/static/images/locks.png);
+	position: relative; /* IE fix */
+}
+
+.courseLocked .courseLock {
+	background-position: -20px 0;
+}
+
+.courseActive .courseLock {
+	display: block;
+}
+
+.courseOptions {
+	margin: 6px 4px 6px 24px;
+
+}
+.courseOptions select {
+	width: 100%;
+}
+
+.teacherItem {
+	padding: 3px 0;
+	margin: 3px 0;
+	border-top: 1px solid #ccc;
+}
+
+.teacherItem, .teacherItem input {
+	font-size: 10px;
+}
+
+.lunchDiv {
+	float: left;
+	width: 48%;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.lunchDiv label {
+	display: inline-block;
+	padding-left: 8px;
+	width: 100%;
+}
+
+#tabActions {
+	position: absolute;
+	left: 8px;
+	width: 264px;
+	height: 128px;
+	bottom: 8px;
+	
+	background-color: #ddd;
+}
+
+#tabActions > * {
+	display: block;
+	width: 100%;
+	height: 32px;
+}
+
+#tabActions > div > * {
+	display: block;
+	width: 50%;
+	height: 32px;
+	float: left;
+}
+
+#startPage {
+	position: absolute;
+	
+	width: 2px;
+	height: 2px;
+	top: 50%;
+	left: 50%;
+	
+	padding: 0 !important;
+}
+
+#startContent {
+	position: absolute;
+	width: 592px;
+	left: -300px;
+	top: -200px;
+
+	background-color: #ddd;
+	padding: 8px;
+	
+	-webkit-border-radius: 16px;
+	-moz-border-radius: 16px;
+	border-radius: 16px;
+}
+
+#startContent a {
+	color: black;
+}
+
+#startHeader {
+	text-align: center;
+	font-size: 28px;
+	margin-bottom: 14px;
+}
+
+.scheduleDiv {
+	display: inline-block;
+	font-size: 10px;
+	margin: 8px 4px;
+}
+
+.columnsFit1 .scheduleDiv { width: 96%; }
+.columnsFit2 .scheduleDiv { width: 48%; }
+.columnsFit3 .scheduleDiv { width: 32%; }
+.columnsFit4 .scheduleDiv { width: 24%; }
+.columnsFit5 .scheduleDiv { width: 19.2%; }
+.columnsFit6 .scheduleDiv { width: 16%; }
+.columnsFit7 .scheduleDiv { width: 13.71%; }
+.columnsFit8 .scheduleDiv { width: 12%; }
+.columnsFit9 .scheduleDiv { width: 10.67%; }
+.columnsFit10 .scheduleDiv { width: 9.6%; }
+
+.scheduleDiv a {
+	color: black;
+}
+
+.scheduleDiv table {
+	border-collapse: collapse;
+	width: 100%;
+	margin-top: 4px;
+}
+
+.scheduleDiv table td {
+	border: 1px solid black;
+	padding: 2px;
+}
+
+/* WORKSHEET */
+
+.worksheetTable {
+	border-collapse: collapse;
+}
+
+.worksheetTable td, .worksheetTable th {
+	border: 1px solid black;
+	padding: 4px;
+}
+
+.worksheetTable .teacherLine {
+	padding: 2px;
+	margin: 2px;
+}
+
+.worksheetTable .percentageSpan {
+	font-size: 0.8em;
+	margin: 0 6px;
+	color: #404040;
+}
+
+.worksheetTable .percentageSpanGood { color: #408040; }
+.worksheetTable .percentageSpanBad { color: #804040; }
+
+/* MODIFICATIONS TO 3RD PARTIES */
+.ui-slider {
+	height: 1.4em !important;
+}
+
+.ui-slider-handle {
+	outline: none;
+	height: 1.8em !important;
+}

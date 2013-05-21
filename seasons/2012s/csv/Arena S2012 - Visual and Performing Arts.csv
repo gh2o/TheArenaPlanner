@@ -1,0 +1,80 @@
+ART IN ARCHIT 1,Art In Architecture 1,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+
+ADV ART IN ARC1,Art In Architecture (Advanced) 1,A,2,330,POLLAK
+
+ADV ART IN ARC2,Art In Architecture (Advanced) 2,A,2,330,POLLAK
+
+ART 2,Art 2,A,1,75,JANSSEN
+,,,7,75,JANSSEN
+
+
+ART IN ARCHIT 2,Art In Architecture 2,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+
+ART ADV,Art (Advanced),A,2,75,JANSSEN
+
+AP ART 2D 2,AP Art 2D 2,BC,3,76,JANSSEN
+
+AP ART 3D 2,AP Art 3D 2,BC,3,75,JANSSEN
+
+CERAMICS 1,Ceramics 1,A,8,S001,RODE
+
+CERAMICS 2,Ceramics 2,A,2,S001,RODE
+,,,3,S001,RODE
+,,,4,S001,RODE
+,,,7,S001,RODE
+
+CERAMICS ADV 1,Ceramics (Advanced) 1,A,3,S001,RODE
+
+CERAMICS ADV 2,Ceramics (Advanced) 2,A,3,S001,RODE
+
+PHOTO 1,Photo 1,A,6,330,POLLAK
+
+PHOTO 2,Photo 2,A,7,330,POLLAK
+
+BAND-ADV,Band (Advanced),A,4,71,WAGNER
+
+SYMPHONIC BAND2,Band (Symphonic),BC,2,71,WAGNER
+
+DANCE-BEG,Dance (Beginning),A,3,GYM,JONES
+,,,4,GYM,JONES
+
+DANCE-INT,Dance (Intermediate),A,5,GYM,JONES
+
+DANCE-ADV,Dance (Advanced),BC,8,GYM,JONES
+
+JAZZ BAND,Jazz Band,BC,7,71,WAGNER
+
+AP MUSIC THEORY,AP Music Theory,BC,5,70,WINTER
+
+ORCHESTRA-INT,Orchestra (Intermediate),A,8,71,WINTER
+
+ORCHESTRA-ADV,Orchestra (Advanced),A,3,71,WINTER
+
+SYMPHONY ORCH2,Orchestra (Symphonic),BC,2,70,WINTER
+
+PIANO LAB 2,Piano Lab 2,A,5,74,WAGNER
+,,,6,74,WAGNER
+
+VOCALMUSIC-BEG,Vocal Music (Beginning),A,4,70,CHAN
+,,,5,70,CHAN
+
+VOCALMUSIC-INT,Vocal Music (Intermediate),A,3,70,CHAN
+
+VOCALMUSIC-ADV,Vocal Music (Advanced),BC,7,70,CHAN
+
+DRAMA 1,Drama 1,A,4,110,BOOKWALTER
+
+DRAMA 2,Drama 2,A,4,110,BOOKWALTER
+,,,5,110,BOOKWALTER
+
+DRAMA ADV,Drama (Advanced),BC,6,110,BOOKWALTER
+
+THEATER TEC BEG,Theater Tech (Beginning),A,8,AUD,BOOKWALTER
+
+THEATER TEC INT,Theater Tech (Intermediate),A,7,AUD,BOOKWALTER
+
+THEATER TEC ADV,Theater Tech (Advanced),A,7,AUD,BOOKWALTER

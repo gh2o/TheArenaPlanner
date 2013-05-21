@@ -1,0 +1,82 @@
+ART 1,Art 1,A,1,75,JANSSEN
+,,,7,75,JANSSEN
+,,,,,
+ART ADV,Advanced Art,A,2,75,JANSSEN
+,,,,,
+AP ART 3D 1,AP Art 3D 1,BC,3,75,JANSSEN
+,,,,,
+ART IN ARCHIT 1,Art in Architecture 1,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+,,,,,
+ART IN ARCHIT 2,Art in Architecture 2 ,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+,,,,,
+ADV ART IN ARC1,Advanced Art in Architecture 1,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+,,,,,
+ADV ART IN ARC2,Advanced Art in Architecture 2,A,1,330,POLLAK
+,,,2,330,POLLAK
+,,,3,330,POLLAK
+,,,,,
+CERAMICS 1,Ceramics 1,A,2,S001,RODE
+,,,4,S001,RODE
+,,,7,S001,RODE
+,,,8,S001,RODE
+,,,,,
+CERAMICS 2,Ceramics 2,A,3,S001,RODE
+,,,,,
+CERAMICS ADV 1,Advanced Ceramics 1,A,3,S001,RODE
+,,,,,
+CERAMICS ADV 2,Advanced Ceramics 2,A,3,S001,RODE
+,,,,,
+PHOTO 1,Photography 1,A,6,330,POLLAK
+,,,,,
+PHOTO 2,Photography 2,A,7,330,POLLAK
+,,,,,
+BAND - ADV,Band (Advanced),A,4,71,WAGNER
+,,,,,
+SYMPHONIC BAND1,Band (Symphonic),BC,2,71,WAGNER
+,,,,,
+DANCE-BEG,Dance (Beginning),A,3,GYM,JONES
+,,,4,GYM,JONES
+,,,,,
+DANCE-INT,Dance (Intermediate),A,5,GYM,JONES
+,,,,,
+DANCE-ADV,Dance (Advanced),BC,8,GYM,JONES
+,,,,,
+JAZZ BAND,Jazz Band,A,7,71,WAGNER
+,,,,,
+AP MUSIC THEORY,AP Music Theory,BC,5,70,WINTER
+,,,,,
+ORCHESTRA-INT,Orchestra (Intermediate),A,8,71,WINTER
+,,,,,
+ORCHESTRA-ADV,Orchestra (Advanced),A,3,71,WINTER
+,,,,,
+SYMPHONY ORCH 1,Orchestra (Symphony),BC,2,70,WINTER
+,,,,,
+PIANO LAB 1,Piano Lab,A,5,74,WAGNER
+,,,6,74,WAGNER
+,,,,,
+VOCALMUSIC-BEG,Choir (Beginning),A,4,70,"CHAN, J"
+,,,8,70,"CHAN, J"
+,,,,,
+VOCALMUSIC-INT,Choir (Intermediate),A,3,70,"CHAN, J"
+,,,,,
+VOCALMUSIC-ADV,Choir (Advanced),BC,7,70,"CHAN, J"
+,,,,,
+DRAMA 1,Drama 1,A,4,110,BOOKWALTER
+,,,5,110,BOOKWALTER
+,,,,,
+DRAMA 2,Drama 2,A,4,110,BOOKWALTER
+,,,5,110,BOOKWALTER
+,,,,,
+DRAMA ADV,Drama (Advanced),BC,6,110,BOOKWALTER
+,,,,,
+THEATER TEC BEG,Theater Tech (Beginning),A,8,Aud,BOOKWALTER
+,,,,,
+THEATER TEC INT,Theater Technology (Intermediate),A,7,Aud,BOOKWALTER
+,,,,,
+THEATER TEC ADV,Theater Technology (Advanced),A,7,Aud,BOOKWALTER

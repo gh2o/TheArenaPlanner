@@ -1,0 +1,43 @@
+@import url(http://fonts.googleapis.com/css?family=Signika);
+
+body {
+	font-family: "lucida grande", "lucida sans", "bitstream vera sans", verdana, sans-serif;
+	font-size: 14px;
+	overflow: hidden;
+}
+
+#ap_header {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 72px;
+	line-height: 72px;
+	padding: 4px 16px;
+}
+
+#ap_header h1 {
+	font-weight: normal;
+	font-size: 28px;
+	margin: 0;
+	padding: 0;
+	float: left;
+	vertical-align: center;
+	font-family: "Signika", sans-serif;
+}
+
+#ap_header iframe {
+	border: none;
+	overflow: hidden;
+	width: 275px;
+	height: 72px;
+	float: right;
+}
+
+#ap_content {
+	position: absolute;
+	top: 80px;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
