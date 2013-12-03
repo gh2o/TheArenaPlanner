@@ -4312,3 +4312,5 @@ DB.base = {
     }
   }
 };
+
+DB.ratings = {};
