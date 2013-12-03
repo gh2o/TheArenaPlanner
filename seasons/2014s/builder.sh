@@ -6,4 +6,4 @@ echo 'var DB = {};'
 echo ''
 ./parser.py
 echo ''
-echo 'DB.ratings = {};'
+./ratings.py
