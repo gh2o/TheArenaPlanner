@@ -107,4 +107,5 @@ def dump_json():
     print('/* blocks start from 0, not 1 */')
     print('DB.base = {};'.format(json.dumps(database, indent=2)))
 
-dump_json()
+if __name__ == '__main__':
+    dump_json()
