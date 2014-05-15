@@ -3,7 +3,7 @@ var DB = {};
 /* data generated from the announcer */
 /* blocks start from 0, not 1 */
 DB.base = {
-  "SS": {
+  "Social Sciences": {
     "ADEM150A": {
       "slots": [
         {
@@ -516,7 +516,7 @@ DB.base = {
       "name": "AP Psychology A"
     }
   }, 
-  "SCIENCE": {
+  "Science": {
     "CHEM150A": {
       "slots": [
         {
@@ -1046,7 +1046,7 @@ DB.base = {
       "name": "Organic Chemistry A"
     }
   }, 
-  "WL": {
+  "World Languages": {
     "FREN151A": {
       "slots": [
         {
@@ -1637,7 +1637,7 @@ DB.base = {
       "name": "Ceramics B"
     }
   }, 
-  "ENGLISH": {
+  "English": {
     "NOVL100A": {
       "slots": [
         {
@@ -2246,7 +2246,7 @@ DB.base = {
       "name": "AP Eng Lit & Comp 83A (83)"
     }
   }, 
-  "MATH": {
+  "Math": {
     "ALGE151B": {
       "slots": [
         {
