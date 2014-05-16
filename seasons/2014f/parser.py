@@ -62,8 +62,11 @@ def extract_rows():
                     # create a new column
                     columns.append([c])
             row = [u''.join(extract_text(c) for c in column) for column in columns]
-            if len(row) == 10 and row[0] != u'Dept.':
-                yield row
+            if row[0] != u'Dept.':
+                if len(row) == 10:
+                    yield row
+                elif len(row) == 9:
+                    yield row[:6] + ['???'] + row[6:]
 
 def get_entries():
     for row in extract_rows():

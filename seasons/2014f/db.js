@@ -3,6 +3,621 @@ var DB = {};
 /* data generated from the announcer */
 /* blocks start from 0, not 1 */
 DB.base = {
+  "World Languages": {
+    "FREN151A": {
+      "slots": [
+        {
+          "room": "256", 
+          "teacher": "Raya, John G.", 
+          "mod": 1
+        }, 
+        {
+          "room": "146", 
+          "teacher": "Pang, Lani Nahleen", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "French 1A"
+    }, 
+    "CHIN350A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 0
+        }, 
+        {
+          "room": "212", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 2
+        }, 
+        {
+          "room": "212", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 4
+        }, 
+        {
+          "room": "140", 
+          "teacher": "Liang, Jing", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Chinese Lang & Culture A"
+    }, 
+    "ITAL152A": {
+      "slots": [
+        {
+          "room": "S102", 
+          "teacher": "Branzburg, Judith Musante", 
+          "mod": 6
+        }, 
+        {
+          "room": "S102", 
+          "teacher": "Branzburg, Judith Musante", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Italian 2A"
+    }, 
+    "LATN153A": {
+      "slots": [
+        {
+          "room": "214", 
+          "teacher": "Stafff, Stafff", 
+          "mod": 5
+        }
+      ], 
+      "code": "BC", 
+      "name": "Latin 3A"
+    }, 
+    "FREN253A": {
+      "slots": [
+        {
+          "room": "256", 
+          "teacher": "Raya, John G.", 
+          "mod": 0
+        }, 
+        {
+          "room": "256", 
+          "teacher": "Raya, John G.", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "French 3A Honors"
+    }, 
+    "KORE152A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Staffb, Staffb", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Korean 2A"
+    }, 
+    "LATN350A": {
+      "slots": [
+        {
+          "room": "214", 
+          "teacher": "Stafff, Stafff", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Latin A"
+    }, 
+    "LATN151A": {
+      "slots": [
+        {
+          "room": "214", 
+          "teacher": "Stafff, Stafff", 
+          "mod": 0
+        }
+      ], 
+      "code": "BC", 
+      "name": "Latin 1A"
+    }, 
+    "JAPN152A": {
+      "slots": [
+        {
+          "room": "218", 
+          "teacher": "Okada, Naomi", 
+          "mod": 1
+        }, 
+        {
+          "room": "218", 
+          "teacher": "Okada, Naomi", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Japanese 2A"
+    }, 
+    "FREN152A": {
+      "slots": [
+        {
+          "room": "256", 
+          "teacher": "Raya, John G.", 
+          "mod": 2
+        }, 
+        {
+          "room": "256", 
+          "teacher": "Raya, John G.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "French 2A"
+    }, 
+    "SPAN151A": {
+      "slots": [
+        {
+          "room": "215", 
+          "teacher": "Collins, Gregory P", 
+          "mod": 0
+        }, 
+        {
+          "room": "215", 
+          "teacher": "Collins, Gregory P", 
+          "mod": 1
+        }, 
+        {
+          "room": "219", 
+          "teacher": "Lipman, David J.", 
+          "mod": 2
+        }, 
+        {
+          "room": "215", 
+          "teacher": "Collins, Gregory P", 
+          "mod": 3
+        }, 
+        {
+          "room": "215", 
+          "teacher": "Collins, Gregory P", 
+          "mod": 5
+        }, 
+        {
+          "room": "219", 
+          "teacher": "Lipman, David J.", 
+          "mod": 6
+        }, 
+        {
+          "room": "215", 
+          "teacher": "Collins, Gregory P", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Spanish 1A"
+    }, 
+    "HEBW152A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 3
+        }
+      ], 
+      "code": "A", 
+      "name": "Hebrew 2A"
+    }, 
+    "JAPN253A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Yoshimura-Lee, Miyuki", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Japanese 3A Honors"
+    }, 
+    "SPAN157A": {
+      "slots": [
+        {
+          "room": "T24", 
+          "teacher": "Cadoppi, Carole S.", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Spanish Native 3A"
+    }, 
+    "SPAN253A": {
+      "slots": [
+        {
+          "room": "142", 
+          "teacher": "Maquinana, Victoria M.", 
+          "mod": 0
+        }, 
+        {
+          "room": "T24", 
+          "teacher": "Cadoppi, Carole S.", 
+          "mod": 1
+        }
+      ], 
+      "code": "BC", 
+      "name": "Spanish 3A Honors"
+    }, 
+    "SPAN153A": {
+      "slots": [
+        {
+          "room": "214", 
+          "teacher": "Billingsly-Ballbe, Cristina", 
+          "mod": 1
+        }, 
+        {
+          "room": "T24", 
+          "teacher": "Cadoppi, Carole S.", 
+          "mod": 2
+        }, 
+        {
+          "room": "T24", 
+          "teacher": "Cadoppi, Carole S.", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Spanish 3A"
+    }, 
+    "JAPN350A": {
+      "slots": [
+        {
+          "room": "218", 
+          "teacher": "Okada, Naomi", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Japanese Lang & Culture A"
+    }, 
+    "HEBW154A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "Hebrew 4A"
+    }, 
+    "CHIN156A": {
+      "slots": [
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Chinese Native 2A"
+    }, 
+    "ITAL254A": {
+      "slots": [
+        {
+          "room": "S102", 
+          "teacher": "Branzburg, Judith Musante", 
+          "mod": 3
+        }
+      ], 
+      "code": "BC", 
+      "name": "Italian 4A Honors"
+    }, 
+    "CHIN152A": {
+      "slots": [
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 2
+        }, 
+        {
+          "room": "146", 
+          "teacher": "Pang, Lani Nahleen", 
+          "mod": 3
+        }, 
+        {
+          "room": "146", 
+          "teacher": "Pang, Lani Nahleen", 
+          "mod": 4
+        }, 
+        {
+          "room": "146", 
+          "teacher": "Pang, Lani Nahleen", 
+          "mod": 6
+        }, 
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Chinese 2A"
+    }, 
+    "KORE151A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Staffb, Staffb", 
+          "mod": 3
+        }, 
+        {
+          "room": "215", 
+          "teacher": "Staffb, Staffb", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Korean 1A"
+    }, 
+    "ITAL153A": {
+      "slots": [
+        {
+          "room": "S102", 
+          "teacher": "Branzburg, Judith Musante", 
+          "mod": 1
+        }
+      ], 
+      "code": "BC", 
+      "name": "Italian 3A"
+    }, 
+    "LATN152A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Stafff, Stafff", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Latin 2A"
+    }, 
+    "KORE153A": {
+      "slots": [
+        {
+          "room": "215", 
+          "teacher": "Staffb, Staffb", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "Korean 3A"
+    }, 
+    "ITAL151A": {
+      "slots": [
+        {
+          "room": "T24", 
+          "teacher": "Pelagatti, Chiara", 
+          "mod": 3
+        }, 
+        {
+          "room": "T24", 
+          "teacher": "Pelagatti, Chiara", 
+          "mod": 5
+        }
+      ], 
+      "code": "BC", 
+      "name": "Italian 1A"
+    }, 
+    "JAPN151A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Yoshimura-Lee, Miyuki", 
+          "mod": 5
+        }, 
+        {
+          "room": "212", 
+          "teacher": "Yoshimura-Lee, Miyuki", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Japanese 1A"
+    }, 
+    "JAPN153A": {
+      "slots": [
+        {
+          "room": "212", 
+          "teacher": "Yoshimura-Lee, Miyuki", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Japanese 3A"
+    }, 
+    "SPAN350A": {
+      "slots": [
+        {
+          "room": "142", 
+          "teacher": "Maquinana, Victoria M.", 
+          "mod": 2
+        }, 
+        {
+          "room": "142", 
+          "teacher": "Maquinana, Victoria M.", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Spanish Language A"
+    }, 
+    "HEBW153A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "Hebrew 3A"
+    }, 
+    "SPAN156A": {
+      "slots": [
+        {
+          "room": "T24", 
+          "teacher": "Cadoppi, Carole S.", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Spanish Native 2A"
+    }, 
+    "SPAN152A": {
+      "slots": [
+        {
+          "room": "219", 
+          "teacher": "Lipman, David J.", 
+          "mod": 0
+        }, 
+        {
+          "room": "219", 
+          "teacher": "Lipman, David J.", 
+          "mod": 1
+        }, 
+        {
+          "room": "214", 
+          "teacher": "Billingsly-Ballbe, Cristina", 
+          "mod": 2
+        }, 
+        {
+          "room": "214", 
+          "teacher": "Billingsly-Ballbe, Cristina", 
+          "mod": 3
+        }, 
+        {
+          "room": "142", 
+          "teacher": "Maquinana, Victoria M.", 
+          "mod": 4
+        }, 
+        {
+          "room": "219", 
+          "teacher": "Lipman, David J.", 
+          "mod": 5
+        }, 
+        {
+          "room": "214", 
+          "teacher": "Billingsly-Ballbe, Cristina", 
+          "mod": 6
+        }, 
+        {
+          "room": "214", 
+          "teacher": "Billingsly-Ballbe, Cristina", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Spanish 2A"
+    }, 
+    "CHIN151A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Danforth, Brian", 
+          "mod": 0
+        }, 
+        {
+          "room": "211", 
+          "teacher": "Danforth, Brian", 
+          "mod": 1
+        }, 
+        {
+          "room": "211", 
+          "teacher": "Danforth, Brian", 
+          "mod": 6
+        }, 
+        {
+          "room": "211", 
+          "teacher": "Danforth, Brian", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Chinese 1A"
+    }, 
+    "CHIN157A": {
+      "slots": [
+        {
+          "room": "140", 
+          "teacher": "Liang, Jing", 
+          "mod": 0
+        }
+      ], 
+      "code": "BC", 
+      "name": "Chinese Native 3A"
+    }, 
+    "CHIN253A": {
+      "slots": [
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 1
+        }, 
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 3
+        }, 
+        {
+          "room": "216", 
+          "teacher": "Li, Yu", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Chinese 3A Honors"
+    }, 
+    "HEBW151A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Chang, Xiaolin", 
+          "mod": 3
+        }
+      ], 
+      "code": "BC", 
+      "name": "Hebrew 1A"
+    }, 
+    "CHIN153A": {
+      "slots": [
+        {
+          "room": "211", 
+          "teacher": "Danforth, Brian", 
+          "mod": 2
+        }, 
+        {
+          "room": "140", 
+          "teacher": "Liang, Jing", 
+          "mod": 3
+        }, 
+        {
+          "room": "140", 
+          "teacher": "Liang, Jing", 
+          "mod": 5
+        }
+      ], 
+      "code": "BC", 
+      "name": "Chinese 3A"
+    }, 
+    "ITAL253A": {
+      "slots": [
+        {
+          "room": "S102", 
+          "teacher": "Branzburg, Judith Musante", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "Italian 3A Honors"
+    }
+  }, 
   "Social Sciences": {
     "ADEM150A": {
       "slots": [
@@ -1046,597 +1661,6 @@ DB.base = {
       "name": "Organic Chemistry A"
     }
   }, 
-  "World Languages": {
-    "FREN151A": {
-      "slots": [
-        {
-          "room": "256", 
-          "teacher": "Raya, John G.", 
-          "mod": 1
-        }, 
-        {
-          "room": "146", 
-          "teacher": "Pang, Lani Nahleen", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "French 1A"
-    }, 
-    "CHIN350A": {
-      "slots": [
-        {
-          "room": "212", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 0
-        }, 
-        {
-          "room": "212", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 2
-        }, 
-        {
-          "room": "212", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 4
-        }, 
-        {
-          "room": "140", 
-          "teacher": "Liang, Jing", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Chinese Lang & Culture A"
-    }, 
-    "LATN153A": {
-      "slots": [
-        {
-          "room": "214", 
-          "teacher": "Stafff, Stafff", 
-          "mod": 5
-        }
-      ], 
-      "code": "BC", 
-      "name": "Latin 3A"
-    }, 
-    "FREN253A": {
-      "slots": [
-        {
-          "room": "256", 
-          "teacher": "Raya, John G.", 
-          "mod": 0
-        }, 
-        {
-          "room": "256", 
-          "teacher": "Raya, John G.", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "French 3A Honors"
-    }, 
-    "LATN350A": {
-      "slots": [
-        {
-          "room": "214", 
-          "teacher": "Stafff, Stafff", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Latin A"
-    }, 
-    "LATN151A": {
-      "slots": [
-        {
-          "room": "214", 
-          "teacher": "Stafff, Stafff", 
-          "mod": 0
-        }
-      ], 
-      "code": "BC", 
-      "name": "Latin 1A"
-    }, 
-    "SPAN151A": {
-      "slots": [
-        {
-          "room": "215", 
-          "teacher": "Collins, Gregory P", 
-          "mod": 0
-        }, 
-        {
-          "room": "215", 
-          "teacher": "Collins, Gregory P", 
-          "mod": 1
-        }, 
-        {
-          "room": "219", 
-          "teacher": "Lipman, David J.", 
-          "mod": 2
-        }, 
-        {
-          "room": "215", 
-          "teacher": "Collins, Gregory P", 
-          "mod": 3
-        }, 
-        {
-          "room": "215", 
-          "teacher": "Collins, Gregory P", 
-          "mod": 5
-        }, 
-        {
-          "room": "219", 
-          "teacher": "Lipman, David J.", 
-          "mod": 6
-        }, 
-        {
-          "room": "215", 
-          "teacher": "Collins, Gregory P", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Spanish 1A"
-    }, 
-    "JAPN253A": {
-      "slots": [
-        {
-          "room": "212", 
-          "teacher": "Yoshimura-Lee, Miyuki", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Japanese 3A Honors"
-    }, 
-    "SPAN157A": {
-      "slots": [
-        {
-          "room": "T24", 
-          "teacher": "Cadoppi, Carole S.", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Spanish Native 3A"
-    }, 
-    "SPAN253A": {
-      "slots": [
-        {
-          "room": "142", 
-          "teacher": "Maquinana, Victoria M.", 
-          "mod": 0
-        }, 
-        {
-          "room": "T24", 
-          "teacher": "Cadoppi, Carole S.", 
-          "mod": 1
-        }
-      ], 
-      "code": "BC", 
-      "name": "Spanish 3A Honors"
-    }, 
-    "SPAN153A": {
-      "slots": [
-        {
-          "room": "214", 
-          "teacher": "Billingsly-Ballbe, Cristina", 
-          "mod": 1
-        }, 
-        {
-          "room": "T24", 
-          "teacher": "Cadoppi, Carole S.", 
-          "mod": 2
-        }, 
-        {
-          "room": "T24", 
-          "teacher": "Cadoppi, Carole S.", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Spanish 3A"
-    }, 
-    "JAPN350A": {
-      "slots": [
-        {
-          "room": "218", 
-          "teacher": "Okada, Naomi", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Japanese Lang & Culture A"
-    }, 
-    "HEBW154A": {
-      "slots": [
-        {
-          "room": "211", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "Hebrew 4A"
-    }, 
-    "KORE151A": {
-      "slots": [
-        {
-          "room": "212", 
-          "teacher": "Staffb, Staffb", 
-          "mod": 3
-        }, 
-        {
-          "room": "215", 
-          "teacher": "Staffb, Staffb", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Korean 1A"
-    }, 
-    "ITAL254A": {
-      "slots": [
-        {
-          "room": "S102", 
-          "teacher": "Branzburg, Judith Musante", 
-          "mod": 3
-        }
-      ], 
-      "code": "BC", 
-      "name": "Italian 4A Honors"
-    }, 
-    "SPAN350A": {
-      "slots": [
-        {
-          "room": "142", 
-          "teacher": "Maquinana, Victoria M.", 
-          "mod": 2
-        }, 
-        {
-          "room": "142", 
-          "teacher": "Maquinana, Victoria M.", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Spanish Language A"
-    }, 
-    "ITAL153A": {
-      "slots": [
-        {
-          "room": "S102", 
-          "teacher": "Branzburg, Judith Musante", 
-          "mod": 1
-        }
-      ], 
-      "code": "BC", 
-      "name": "Italian 3A"
-    }, 
-    "KORE153A": {
-      "slots": [
-        {
-          "room": "215", 
-          "teacher": "Staffb, Staffb", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "Korean 3A"
-    }, 
-    "ITAL151A": {
-      "slots": [
-        {
-          "room": "T24", 
-          "teacher": "Pelagatti, Chiara", 
-          "mod": 3
-        }, 
-        {
-          "room": "T24", 
-          "teacher": "Pelagatti, Chiara", 
-          "mod": 5
-        }
-      ], 
-      "code": "BC", 
-      "name": "Italian 1A"
-    }, 
-    "JAPN151A": {
-      "slots": [
-        {
-          "room": "212", 
-          "teacher": "Yoshimura-Lee, Miyuki", 
-          "mod": 5
-        }, 
-        {
-          "room": "212", 
-          "teacher": "Yoshimura-Lee, Miyuki", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Japanese 1A"
-    }, 
-    "JAPN153A": {
-      "slots": [
-        {
-          "room": "212", 
-          "teacher": "Yoshimura-Lee, Miyuki", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Japanese 3A"
-    }, 
-    "HEBW153A": {
-      "slots": [
-        {
-          "room": "211", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "Hebrew 3A"
-    }, 
-    "SPAN156A": {
-      "slots": [
-        {
-          "room": "T24", 
-          "teacher": "Cadoppi, Carole S.", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Spanish Native 2A"
-    }, 
-    "CHIN151A": {
-      "slots": [
-        {
-          "room": "211", 
-          "teacher": "Danforth, Brian", 
-          "mod": 0
-        }, 
-        {
-          "room": "211", 
-          "teacher": "Danforth, Brian", 
-          "mod": 1
-        }, 
-        {
-          "room": "211", 
-          "teacher": "Danforth, Brian", 
-          "mod": 6
-        }, 
-        {
-          "room": "211", 
-          "teacher": "Danforth, Brian", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Chinese 1A"
-    }, 
-    "CHIN157A": {
-      "slots": [
-        {
-          "room": "140", 
-          "teacher": "Liang, Jing", 
-          "mod": 0
-        }
-      ], 
-      "code": "BC", 
-      "name": "Chinese Native 3A"
-    }, 
-    "CHIN253A": {
-      "slots": [
-        {
-          "room": "216", 
-          "teacher": "Li, Yu", 
-          "mod": 1
-        }, 
-        {
-          "room": "216", 
-          "teacher": "Li, Yu", 
-          "mod": 3
-        }, 
-        {
-          "room": "216", 
-          "teacher": "Li, Yu", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Chinese 3A Honors"
-    }, 
-    "HEBW151A": {
-      "slots": [
-        {
-          "room": "211", 
-          "teacher": "Chang, Xiaolin", 
-          "mod": 3
-        }
-      ], 
-      "code": "BC", 
-      "name": "Hebrew 1A"
-    }, 
-    "CHIN153A": {
-      "slots": [
-        {
-          "room": "211", 
-          "teacher": "Danforth, Brian", 
-          "mod": 2
-        }, 
-        {
-          "room": "140", 
-          "teacher": "Liang, Jing", 
-          "mod": 3
-        }, 
-        {
-          "room": "140", 
-          "teacher": "Liang, Jing", 
-          "mod": 5
-        }
-      ], 
-      "code": "BC", 
-      "name": "Chinese 3A"
-    }, 
-    "ITAL253A": {
-      "slots": [
-        {
-          "room": "S102", 
-          "teacher": "Branzburg, Judith Musante", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "Italian 3A Honors"
-    }
-  }, 
-  "VPA": {
-    "DRAM450A": {
-      "slots": [
-        {
-          "room": "110", 
-          "teacher": "Bookwalter, Teresa C.", 
-          "mod": 5
-        }
-      ], 
-      "code": "BC", 
-      "name": "Drama Advanced A"
-    }, 
-    "CERA450B": {
-      "slots": [
-        {
-          "room": "S01", 
-          "teacher": "Rode, Maria T.", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "Ceramics Advanced B"
-    }, 
-    "CERA450A": {
-      "slots": [
-        {
-          "room": "S01", 
-          "teacher": "Rode, Maria T.", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "Ceramics Advanced A"
-    }, 
-    "MUST350A": {
-      "slots": [
-        {
-          "room": "70", 
-          "teacher": "Winter, Michele J.", 
-          "mod": 4
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Music Theory A"
-    }, 
-    "VIDO150A": {
-      "slots": [
-        {
-          "room": "76", 
-          "teacher": "Bookwalter, Teresa C.", 
-          "mod": 1
-        }
-      ], 
-      "code": "BC", 
-      "name": "Video Production A"
-    }, 
-    "JAZZ150A": {
-      "slots": [
-        {
-          "room": "71", 
-          "teacher": "Wagner, Mitchell W.", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Jazz Band A"
-    }, 
-    "DANC153A": {
-      "slots": [
-        {
-          "room": "Gym", 
-          "teacher": "Jones, Wendy L.", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Dance 3A"
-    }, 
-    "ARTT350A": {
-      "slots": [
-        {
-          "room": "75", 
-          "teacher": "Janssen, Kirsten B.", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "AP Studio Art: 3-D Design A"
-    }, 
-    "DPRD150A": {
-      "slots": [
-        {
-          "room": "Gym", 
-          "teacher": "Jones, Wendy L.", 
-          "mod": 7
-        }
-      ], 
-      "code": "BC", 
-      "name": "Dance Production A"
-    }, 
-    "ORCS150A": {
-      "slots": [
-        {
-          "room": "70", 
-          "teacher": "Winter, Michele J.", 
-          "mod": 1
-        }
-      ], 
-      "code": "BC", 
-      "name": "Symphony Orchestra 1A"
-    }, 
-    "SING153A": {
-      "slots": [
-        {
-          "room": "70", 
-          "teacher": "Chan, Jason Tai Wai", 
-          "mod": 6
-        }
-      ], 
-      "code": "BC", 
-      "name": "Vocal Music 3A"
-    }, 
-    "SYMB150A": {
-      "slots": [
-        {
-          "room": "71", 
-          "teacher": "Wagner, Mitchell W.", 
-          "mod": 1
-        }
-      ], 
-      "code": "BC", 
-      "name": "Symphonic Band A"
-    }, 
-    "CERA150B": {
-      "slots": [
-        {
-          "room": "S01", 
-          "teacher": "Rode, Maria T.", 
-          "mod": 2
-        }
-      ], 
-      "code": "BC", 
-      "name": "Ceramics B"
-    }
-  }, 
   "English": {
     "NOVL100A": {
       "slots": [
@@ -2246,6 +2270,1120 @@ DB.base = {
       "name": "AP Eng Lit & Comp 83A (83)"
     }
   }, 
+  "Miscellaneous": {
+    "STSK150A": {
+      "slots": [
+        {
+          "room": "S105", 
+          "teacher": "Crabtree, Stephanie I.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Study Skills A"
+    }, 
+    "STSK150B": {
+      "slots": [
+        {
+          "room": "S106", 
+          "teacher": "Nager, Norman", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Study Skills B"
+    }, 
+    "PEER150A": {
+      "slots": [
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 2
+        }, 
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 3
+        }, 
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Peer Helping 1A"
+    }, 
+    "PEER151A": {
+      "slots": [
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 2
+        }, 
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 3
+        }, 
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Peer Helping 2A"
+    }, 
+    "COCA150A": {
+      "slots": [
+        {
+          "room": "338", 
+          "teacher": "Reller, Ellen M.", 
+          "mod": 2
+        }
+      ], 
+      "code": "A", 
+      "name": "College/Career"
+    }, 
+    "MRCH950A": {
+      "slots": [
+        {
+          "room": "S106", 
+          "teacher": "Nager, Norman", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Merchandising/Marketing"
+    }, 
+    "LDRS151A": {
+      "slots": [
+        {
+          "room": "T14", 
+          "teacher": "Horn, Adee", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Leadership 1A"
+    }, 
+    "LDRS151B": {
+      "slots": [
+        {
+          "room": "80A", 
+          "teacher": "Dean, Sara L.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Leadership 1B"
+    }, 
+    "HLTH150A": {
+      "slots": [
+        {
+          "room": "260", 
+          "teacher": "Cole, Lisa A.", 
+          "mod": 1
+        }, 
+        {
+          "room": "260", 
+          "teacher": "Cole, Lisa A.", 
+          "mod": 2
+        }, 
+        {
+          "room": "260", 
+          "teacher": "Cole, Lisa A.", 
+          "mod": 3
+        }, 
+        {
+          "room": "218", 
+          "teacher": "Nager, Norman", 
+          "mod": 3
+        }, 
+        {
+          "room": "260", 
+          "teacher": "Nager, Norman", 
+          "mod": 4
+        }, 
+        {
+          "room": "260", 
+          "teacher": "Cole, Lisa A.", 
+          "mod": 5
+        }, 
+        {
+          "room": "260", 
+          "teacher": "Cole, Lisa A.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Health"
+    }
+  }, 
+  "VPA": {
+    "BAND152A": {
+      "slots": [
+        {
+          "room": "71", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 3
+        }
+      ], 
+      "code": "A", 
+      "name": "Band 2A"
+    }, 
+    "CERA450B": {
+      "slots": [
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "Ceramics Advanced B"
+    }, 
+    "CERA450A": {
+      "slots": [
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "Ceramics Advanced A"
+    }, 
+    "AARC151B": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 0
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Art In Architecture B"
+    }, 
+    "AARC151A": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 0
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Art In Architecture A"
+    }, 
+    "ORCH153A": {
+      "slots": [
+        {
+          "room": "71", 
+          "teacher": "Winter, Michele J.", 
+          "mod": 2
+        }
+      ], 
+      "code": "A", 
+      "name": "Orchestra 3A"
+    }, 
+    "DANC152A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Jones, Wendy L.", 
+          "mod": 4
+        }
+      ], 
+      "code": "A", 
+      "name": "Dance 2A"
+    }, 
+    "MUST350A": {
+      "slots": [
+        {
+          "room": "70", 
+          "teacher": "Winter, Michele J.", 
+          "mod": 4
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Music Theory A"
+    }, 
+    "DPRD150A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Jones, Wendy L.", 
+          "mod": 7
+        }
+      ], 
+      "code": "BC", 
+      "name": "Dance Production A"
+    }, 
+    "TECH152A": {
+      "slots": [
+        {
+          "room": "76", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Theater Tech 2A"
+    }, 
+    "PIAL151B": {
+      "slots": [
+        {
+          "room": "74", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Piano Lab 1B"
+    }, 
+    "PIAL151A": {
+      "slots": [
+        {
+          "room": "74", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 4
+        }, 
+        {
+          "room": "74", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Piano Lab 1A"
+    }, 
+    "SING151A": {
+      "slots": [
+        {
+          "room": "70", 
+          "teacher": "Chan, Jason Tai Wai", 
+          "mod": 3
+        }, 
+        {
+          "room": "70", 
+          "teacher": "Chan, Jason Tai Wai", 
+          "mod": 5
+        }, 
+        {
+          "room": "70", 
+          "teacher": "Chan, Jason Tai Wai", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Vocal Music 1A"
+    }, 
+    "SYMB150A": {
+      "slots": [
+        {
+          "room": "71", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 1
+        }
+      ], 
+      "code": "BC", 
+      "name": "Symphonic Band A"
+    }, 
+    "AARC452A": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 0
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Art In Architecture Advanced A"
+    }, 
+    "AARC452B": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 0
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Art In Architecture Advanced B"
+    }, 
+    "DRAM450A": {
+      "slots": [
+        {
+          "room": "110", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 4
+        }, 
+        {
+          "room": "110", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Drama Advanced A"
+    }, 
+    "FOTO150A": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 5
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Photography A"
+    }, 
+    "FOTO450A": {
+      "slots": [
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Photography Advanced A"
+    }, 
+    "ARTT450A": {
+      "slots": [
+        {
+          "room": "75", 
+          "teacher": "Janssen, Kirsten B.", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Art Advanced A"
+    }, 
+    "TECH153A": {
+      "slots": [
+        {
+          "room": "76", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Theater Tech 3A"
+    }, 
+    "VIDO150A": {
+      "slots": [
+        {
+          "room": "76", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 1
+        }
+      ], 
+      "code": "BC", 
+      "name": "Video Production A"
+    }, 
+    "DRAM151A": {
+      "slots": [
+        {
+          "room": "110", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 3
+        }, 
+        {
+          "room": "110", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 4
+        }
+      ], 
+      "code": "A", 
+      "name": "Drama 1A"
+    }, 
+    "ORCH152A": {
+      "slots": [
+        {
+          "room": "71", 
+          "teacher": "Winter, Michele J.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Orchestra 2A"
+    }, 
+    "TECH151A": {
+      "slots": [
+        {
+          "room": "76", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Theater Tech 1A"
+    }, 
+    "DANC153A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Jones, Wendy L.", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Dance 3A"
+    }, 
+    "ORCS150A": {
+      "slots": [
+        {
+          "room": "70", 
+          "teacher": "Winter, Michele J.", 
+          "mod": 1
+        }
+      ], 
+      "code": "BC", 
+      "name": "Symphony Orchestra 1A"
+    }, 
+    "CERA150A": {
+      "slots": [
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 1
+        }, 
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 3
+        }, 
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 6
+        }, 
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Ceramics A"
+    }, 
+    "CERA150B": {
+      "slots": [
+        {
+          "room": "S01", 
+          "teacher": "Rode, Maria T.", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "Ceramics B"
+    }, 
+    "ARTT150A": {
+      "slots": [
+        {
+          "room": "75", 
+          "teacher": "Janssen, Kirsten B.", 
+          "mod": 0
+        }, 
+        {
+          "room": "75", 
+          "teacher": "Janssen, Kirsten B.", 
+          "mod": 1
+        }, 
+        {
+          "room": "330", 
+          "teacher": "Pollak, Julian Victor", 
+          "mod": 2
+        }, 
+        {
+          "room": "75", 
+          "teacher": "Janssen, Kirsten B.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Art A"
+    }, 
+    "SING153A": {
+      "slots": [
+        {
+          "room": "70", 
+          "teacher": "Chan, Jason Tai Wai", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Vocal Music 3A"
+    }, 
+    "DANC151A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Jones, Wendy L.", 
+          "mod": 2
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Jones, Wendy L.", 
+          "mod": 3
+        }
+      ], 
+      "code": "A", 
+      "name": "Dance 1A"
+    }, 
+    "JAZZ150A": {
+      "slots": [
+        {
+          "room": "71", 
+          "teacher": "Wagner, Mitchell W.", 
+          "mod": 6
+        }
+      ], 
+      "code": "BC", 
+      "name": "Jazz Band A"
+    }, 
+    "ARTT350A": {
+      "slots": [
+        {
+          "room": "75", 
+          "teacher": "Janssen, Kirsten B.", 
+          "mod": 2
+        }
+      ], 
+      "code": "BC", 
+      "name": "AP Studio Art: 3-D Design A"
+    }, 
+    "DRAM151B": {
+      "slots": [
+        {
+          "room": "110", 
+          "teacher": "Bookwalter, Teresa C.", 
+          "mod": 4
+        }
+      ], 
+      "code": "A", 
+      "name": "Drama 1B"
+    }, 
+    "SING152A": {
+      "slots": [
+        {
+          "room": "70", 
+          "teacher": "Chan, Jason Tai Wai", 
+          "mod": 2
+        }
+      ], 
+      "code": "A", 
+      "name": "Vocal Music 2A"
+    }
+  }, 
+  "PE": {
+    "PEPE152A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Ray, Robert W", 
+          "mod": 0
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 0
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Axt Jr, Milton C.", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Geren, Thomas D.", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Axt Jr, Milton C.", 
+          "mod": 2
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Ray, Robert W", 
+          "mod": 2
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Axt Jr, Milton C.", 
+          "mod": 3
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Geren, Thomas D.", 
+          "mod": 3
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Geren, Thomas D.", 
+          "mod": 4
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 4
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffc, Staffc", 
+          "mod": 4
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 5
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffc, Staffc", 
+          "mod": 5
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Geren, Thomas D.", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Axt Jr, Milton C.", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Ray, Robert W", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffc, Staffc", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Axt Jr, Milton C.", 
+          "mod": 7
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Geren, Thomas D.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "PE 2A"
+    }, 
+    "PEPE153A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "PE 3A"
+    }, 
+    "BSKT150A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Ray, Robert W", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "Basketball A"
+    }, 
+    "ATHD000A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Ray, Robert W", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Athletic Director"
+    }, 
+    "RCKT150A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 4
+        }
+      ], 
+      "code": "A", 
+      "name": "Racket Sports 1A"
+    }, 
+    "WGHT150A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 5
+        }
+      ], 
+      "code": "A", 
+      "name": "Weight Training A"
+    }, 
+    "PEPE154A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 6
+        }
+      ], 
+      "code": "A", 
+      "name": "PE 4A"
+    }, 
+    "PEPE151A": {
+      "slots": [
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 0
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffc, Staffc", 
+          "mod": 0
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 0
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffc, Staffc", 
+          "mod": 1
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Doherty, Terence Martin", 
+          "mod": 2
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 2
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Doherty, Terence Martin", 
+          "mod": 3
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 3
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 4
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffd, Staffd", 
+          "mod": 4
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Lopez, Juan L.", 
+          "mod": 5
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Doherty, Terence Martin", 
+          "mod": 5
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffd, Staffd", 
+          "mod": 5
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Hosoda, Christine S.", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Taylor-Ray, Sascha N.", 
+          "mod": 6
+        }, 
+        {
+          "room": "Gym", 
+          "teacher": "Staffd, Staffd", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "PE 1A"
+    }
+  }, 
+  "JROTC": {
+    "JRTC152A": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 2A"
+    }, 
+    "JRTC151B": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 1B"
+    }, 
+    "JRTC151A": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 1A"
+    }, 
+    "JRTC154A": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 4A"
+    }, 
+    "JRTC154B": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 4B"
+    }, 
+    "JRTC152B": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Credito, Ronilo P.", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 2B"
+    }, 
+    "JRTC153B": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 3B"
+    }, 
+    "JRTC153A": {
+      "slots": [
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 4
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 5
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 6
+        }, 
+        {
+          "room": "CvRm", 
+          "teacher": "Bullard, Doug", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "JROTC 3A"
+    }
+  }, 
   "Math": {
     "ALGE151B": {
       "slots": [
@@ -2551,6 +3689,17 @@ DB.base = {
       "code": "BC", 
       "name": "Geometry Honors A"
     }, 
+    "PCMP150A": {
+      "slots": [
+        {
+          "room": "334", 
+          "teacher": "Simon, Arthur D.", 
+          "mod": 1
+        }
+      ], 
+      "code": "A", 
+      "name": "Principles of Computer Sci"
+    }, 
     "CALC350A": {
       "slots": [
         {
@@ -2607,6 +3756,32 @@ DB.base = {
       ], 
       "code": "BC", 
       "name": "Computers and Robotics Tech"
+    }, 
+    "PROG150A": {
+      "slots": [
+        {
+          "room": "334", 
+          "teacher": "Reller, Ellen M.", 
+          "mod": 0
+        }, 
+        {
+          "room": "334", 
+          "teacher": "Reller, Ellen M.", 
+          "mod": 4
+        }, 
+        {
+          "room": "334", 
+          "teacher": "Reller, Ellen M.", 
+          "mod": 5
+        }, 
+        {
+          "room": "334", 
+          "teacher": "Sinn, Wilson", 
+          "mod": 7
+        }
+      ], 
+      "code": "A", 
+      "name": "Computer Programming A"
     }, 
     "GEOM160A": {
       "slots": [
